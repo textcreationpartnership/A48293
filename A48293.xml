@@ -1,0 +1,800 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals to the King and Parliament, or, A large model of a bank shewing how a fund of a bank may be made without much charge or any hazard, that may give out bills of credit to a vast extent, that all Europe will accept of rather than mony : together with some general proposals in order to an act of Parliament for the establishing this bank : also many of the great advantages that will accrue to the nation, to the crown, and to the people, are mentioned, with an answer to the objections that may be made against it / by M.L.</title>
+            <author>Lewis, M. (Mark), fl. 1678.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 127 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48293</idno>
+            <idno type="STC">Wing L1848</idno>
+            <idno type="STC">ESTC R29943</idno>
+            <idno type="EEBO-CITATION">11225531</idno>
+            <idno type="OCLC">ocm 11225531</idno>
+            <idno type="VID">46923</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48293)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46923)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1445:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals to the King and Parliament, or, A large model of a bank shewing how a fund of a bank may be made without much charge or any hazard, that may give out bills of credit to a vast extent, that all Europe will accept of rather than mony : together with some general proposals in order to an act of Parliament for the establishing this bank : also many of the great advantages that will accrue to the nation, to the crown, and to the people, are mentioned, with an answer to the objections that may be made against it / by M.L.</title>
+                  <author>Lewis, M. (Mark), fl. 1678.</author>
+               </titleStmt>
+               <extent>[3], 42, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Million ...,</publisher>
+                  <pubPlace>London  :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata sheet following p. 42.</note>
+                  <note>Numerous errors in pagination.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Banks and banking --  England.</term>
+               <term>Finance --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46923:1" rendition="simple:additions"/>
+            <pb facs="tcp:46923:1" rendition="simple:additions"/>
+            <p>PROPOSALS TO THE <hi>King</hi> and <hi>Parliament,</hi> OR A LARGE MODEL OF A BANK, Shewing how a Fund of a Bank may be made without much charge, or any hazard, that may give out Bills of Credit to a vaſt extent, that all <hi>Europe</hi> will accept of, rather than Mony.</p>
+            <p>Together with ſome general propoſals in order to an Act of Parliament for the eſtabliſhing this Bank.</p>
+            <p>Alſo many of the great advantages that will accrue to the Nation, to the Crown, and to the People, are mentio<g ref="char:EOLhyphen"/>ned, with an anſwer to the Objections, that may be made a<g ref="char:EOLhyphen"/>gainſt it.</p>
+            <p>By <hi>M. L.</hi> D. D.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Million</hi> at the ſign of the <hi>Bible</hi> in <hi>Fleet-Street</hi> 1678.</p>
+         </div>
+         <div type="author_to_the_reader">
+            <pb facs="tcp:46923:2"/>
+            <head>TO THE READER.</head>
+            <p>
+               <hi>I</hi> do not intend to make any pitiful Apology to beg favour from the <hi>Reader,</hi> that he would uſe Candor in peruſing this Pam<g ref="char:EOLhyphen"/>phlet: Be ſure firſt thou underſtand it, and then if thou doſt not think it for the Publick good, caſt it aſide: but if thou art perſwaded from the reaſon of the thing, that it will in ſome mea<g ref="char:EOLhyphen"/>ſure accompliſh the ends after mentioned, then thou art as much bound (and perhaps more too) to promote the thing, as my ſelf.</p>
+            <p>All men are ſatisfied, a Bank is very advantagious to a Nation, eſpecially to a Trading People, ſcituate as we are: but the great Queſtion hath been, how to make a Fund that ſhall be credited by all, without vaſt quantities of ready Caſh or Bullion to ly dead, which we have not to spare for ſuch a purpoſe. This grand Obſtacle is removed without charge, hurt or hazard to any body. Peruſe the Text quite through firſt, then conſider the explication, weigh ſeri<g ref="char:EOLhyphen"/>ouſly the advantages, in the latter part of this diſcourſe, and then paſs thy Opinion. I hope the thing will ſute moſt mens intereſt. If I be miſtaken in my meaſures, being out of my Road, I beg thy pardon.</p>
+            <closer>
+               <signed>M. Lewis D. D.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:46923:3"/>
+            <head>A LARGE MODEL OF A BANK, With Annotations upon it.</head>
+            <p>A <hi>Bill of Exchange, Or a Bill of Credit that is transferable upon a good man that cannot eaſily fail, is as good as Mony.</hi>
+            </p>
+            <p>By Credit, or a Bill of Credit, I mean a Bill under any mans hand, that he ows me ſo much Mony, and will pay it to me upon Demand.</p>
+            <p>By a Bill that is transferable, I mean, a Bill that may be aſſigned by me, to whom it is firſt made, to any perſon I am indebted to, and from this perſon to a third, and ſo on and may be ſued for in the name of the poſſeſſor of it, let it be whom it will, whereas now by the Law, Bonds and Bills muſt be ſued in the name of thoſe, to whom they are firſt made.</p>
+            <p>By a good Man. I mean one that is juſt and punctual in his dealing, hath a good eſtate real and perſonal, that he cannot probably loſe on a ſudden.</p>
+            <p>Such a Bill is as good as Mony, for Mony is nothing but a Medium of Com<g ref="char:EOLhyphen"/>merce, a ſecurity for a while, that when we part with one thing we can ſpare, we may procure us another thing of the like value. Mony is the ſtan<g ref="char:EOLhyphen"/>dard of the value of all Commodities, having a value put upon it by that in<g ref="char:EOLhyphen"/>trinſecal worth it hath in it ſelf, rated by the general eſteem of the World.</p>
+            <p>Such a transferable Bill is as valuable as Mony, ſo far as it is known, it will do all things that Mony doth, it will buy what we want, pay where we are indebted, becauſe it hath a mediate intrinſecal worth in it, in that it may be turned into Mony when the poſſeſſor pleaſes, for Mony is, and will be the original ſtandard in ſpite of Fate.</p>
+            <p>
+               <pb n="2" facs="tcp:46923:3"/>
+               <hi>Whoever can create ſuch a Fund, that may give out ſuch Bills of Exchange (or Credit currant) that ſhall be always anſwered with Mony when demanded, he doth in effect create ſo much Mony.</hi>
+            </p>
+            <p>How acceptable Bills of Credit are, when they have a ſure Fund, appears by thoſe taken upon the <hi>Oxford</hi> Act, when the aſſeſſment to be raiſed was propoſed for ſecurity, and the Bills were made transferable. Alſo we may make an eſtimate of the value of Credit upon a good Fund by the Bills ac<g ref="char:EOLhyphen"/>cepted of upon this preſent aſſeſſment inſtead of Mony. <hi>Lumbard-Street</hi> Bills, that had ſo bad a Fund, were accepted out of choice by moſt inſtead of Mony as long as their Credit was currant.</p>
+            <p>Diverſe Citizens Bills at this day are accepted as currant, though the Creditor hath no other ſecurity, but the honeſty of the man, and a ſuppoſi<g ref="char:EOLhyphen"/>tion of an eſtate, both which may fail, yet many are glad to leave their Mo<g ref="char:EOLhyphen"/>ny in ſuch hands without intereſt for ſafety. I heard a perſon of Quality ſay, he ſaw the ſame Mony tranſmitted nine times in one Morning by writing of the Credit from one to another, and the Mony in ſpecie was left untouched at laſt. Much more men would do thus, if the Fund was ſuch that it could not fail, unleſs the Nation ſhould be deſtroyed.</p>
+            <p>
+               <hi>I propoſe how ſuch a Fund of a Bank may be made that ſhall be able to iſſue out Bills of Credit to a vaſt extent, that all the Mer<g ref="char:EOLhyphen"/>chants in</hi> Europe <hi>will accept of rather than Mony.</hi>
+            </p>
+            <p>Merchants will accept theſe Bills rather than Mony, the Fund ſhall be un<g ref="char:EOLhyphen"/>queſtionable, and the ſecurity as good as can be in Nature, and alſo theſe Bills are more ſafe, more portable, and more transferrable than Mony, and ſo are better, than Caſh in the Cheſt, as Gold is better than Silver, for theſe rea<g ref="char:EOLhyphen"/>ſons. If men receive Mony in Specie, they may be robbed, they may receive bad Mony, they muſt be troubled to tel this Mony in Specie, to cary it from one place to another, where it muſt be uſed: but a Bill of Credit is free from all theſe inconveniences, and hath diverſe advantages above Gold, and therefore will be accepted of rather than Silver.</p>
+            <p>
+               <hi>This may be done, without any hazard, charge, or much trou<g ref="char:EOLhyphen"/>ble to any body, and with profit to every body.</hi>
+            </p>
+            <p>There will be no greater trouble to paſs the Law after mentioned, and to ſet up theſe Offices in their Precincts, the Nation being divided already into Counties and Hundreds, the ſtated Officers doubtleſs will be conten<g ref="char:EOLhyphen"/>ted to act upon this ſcore, in the infancy of theſe Offices, no purchaſe,
+<pb n="3" facs="tcp:46923:4"/>
+no pay, ſeing there is ſo great a probability, even next door to a certain<g ref="char:EOLhyphen"/>ty, the thing will ſucceed well.</p>
+            <p>If the project ſhould be brought to perfection, it will advance the Rich<g ref="char:EOLhyphen"/>es and Honour of the Nation, beyond any thing the <hi>Spaniſh Indies</hi> could have done, if we had poſſeſſed our ſelves of them: If it miſcarries through the knavery or folly of the firſt undertakers, there is a little labour loſt, and little or no Mony ſpent, in a probable expectation of ſuch a vaſt advan<g ref="char:EOLhyphen"/>tage. Every Merchant that ſends out a Cargo to the <hi>Indies,</hi> is at more trou<g ref="char:EOLhyphen"/>ble <hi>pro rato,</hi> and runs a greater hazard in expectation of leſs benefit.</p>
+            <p>I confeſs, Thieves, Brokers and griping Uſurers will have little ad<g ref="char:EOLhyphen"/>vantage by this deſign, neither is it intended to be profitable to them: But I think I may confidently ſay, all others ſhall one way or an other be advanta<g ref="char:EOLhyphen"/>ged, to be ſure they ſhall have no loſs.</p>
+            <div type="part">
+               <head>The manner how it may be done is thus,</head>
+               <p>
+                  <hi>Divide the Nation into Precincts, ſuppoſe two or three hundred into a Precinct, as the nature of the place, and the reaſon of the thing ſhall require.</hi>
+               </p>
+               <p>A County is generally too big, a Hundred is too little, therefore ſo many Hundreds may be caſt into one Precinct, as ſhall be judged convenient.</p>
+               <p>
+                  <hi>London, Weſtminſter</hi> and <hi>Southwark,</hi> and the adjacent Suburbs, may be di<g ref="char:EOLhyphen"/>vided into ſeveral Precincts.</p>
+               <p>In the whole Nation there may be three or four hundred Precincts.</p>
+               <p>
+                  <hi>Offices may be erected in each of theſe Precincts in the moſt conveni<g ref="char:EOLhyphen"/>ent places, to return Mony to any part of the Nation, where it ſhall be deſired, on purpoſe to prevent High-way-Robbing, and to expedite the returns of Mony. That is, if a perſon is at</hi> London, <hi>and deſires a hundred Pounds at</hi> York, <hi>he pays in his hundred Pounds at the Office at</hi> London, <hi>and receivs a Bill of Credit to receive this at</hi> York, <hi>ſo that none need to carry any more Mony, than juſt to defray his Charges upon the Road.</hi>
+               </p>
+               <p>Mony in a Nation, is like bloud in the Veins, if that circulates in all the
+<pb n="4" facs="tcp:46923:4"/>
+parts of it, the whole body is in health; if it withdraws it ſelf from any part, that languiſhes and withers, as we find by experience, if the bloud ſtagnates, as the Mony doth here about the City, the Limbs are child, and the Heart not benefited. Theſe methods of returning Mony would bring it again, into the remote parts of the Nation, and a little expeditiouſly re<g ref="char:EOLhyphen"/>turned, would ſeem a great deal, doing the work of four times the ſame quantity, moving ſlowly; as a Stick moved round very quick, ſeems to be in every place.</p>
+               <p>That Statute of <hi>El.</hi> 1. <hi>Cap.</hi> 9.</p>
+               <p>By which the Hundred is bound to repair men Robbed, may be repealed, when no body needs to carry their own Mony: if any man will do it, let it be at their own perils. Thus all the Mony taken from honeſt men (which is not inconſiderable) by a pack of Rogues, may be ſaved, and the lives of many men, now loſt in the defence of their Mony, will be preſerved.</p>
+               <p>
+                  <hi>All greater payments (ſuppoſe a hundred pounds and upwards) may be ordered to be made at theſe Offices, to be atteſted by them, to prevent frauds, elſe the payments ſhall not be good in Law.</hi>
+               </p>
+               <p>Many times greater payments are pretended to be made, when they are not, ſo that ſome are cheated, and divers are involved in unneceſſary ſutes in Law.</p>
+               <p>It is leſs troubleſome in Cities and great places, where men are near theſe Offics, to go to the Office and tranſmit their mony there depoſited, than it is for them to tell it in a Tavern, and lodge it in their Inn, or to carry it to their dwellings.</p>
+               <p>If any perſon be to pay any great Sum, ſuppoſe a thouſand Pounds, poſ<g ref="char:EOLhyphen"/>ſibly he cannot provide this all at once; when he hath got ſome part of it, he muſt lay it ſome where till he can procure the reſt, and no place is ſo ſit as theſe Offices: where the perſon receiving it, will be glad to leave it till he can lend it out, or lay it out, though he has no intereſt; becauſe it is ſa<g ref="char:EOLhyphen"/>fer than in his own Cheſt.</p>
+               <p>
+                  <hi>All perſons that pleaſe ſhall have liberty, upon ſuch conditions af<g ref="char:EOLhyphen"/>ter mentioned, to depoſite their Mony in theſe Offices, where the Officer ſhall give a Bill of Credit to the depoſiter, that he hath ſo much Mony of his, and that it ſhall be paid to him, or his aſſigns up<g ref="char:EOLhyphen"/>on demand.</hi>
+               </p>
+               <p>No man ſhall be forced to leave his Mony in theſe Offices, but ſhall be in the ſame condition when the Offices are erected, as he is now before the erecting of them. If he can get no good by them, he ſhall not need to
+<pb n="5" facs="tcp:46923:5"/>
+receive any damage from them.</p>
+               <p>There is no reaſon a man ſhould have any intereſt for his Mony depoſi<g ref="char:EOLhyphen"/>ted in theſe Offices; for it lies there as Caſh in his own Cheſt, that pays him no intereſt till he lends it out, or lays it out, thus he may do with his Credit, or Mony in the Bank as ſoon as he can.</p>
+               <p>If any deſire to leave his Mony, it ſhall be upon ſuch terms as are after mentioned, which none are forced to ſubmit to, unleſs they think they can get by ſo doing.</p>
+               <p>
+                  <hi>Theſe Bills of Credit, ſhall be made transferrable.</hi>
+               </p>
+               <p>Men will uſually transfer their Credit from one to another at the Of<g ref="char:EOLhyphen"/>fice: but in caſe they are at a diſtance, and will run the risk, whether the Bill is counterſeited or no, they may aſſign their intereſt in the Office, ſo far as that Bill goes, to whom they pleaſe, who ſhall have the right of re<g ref="char:EOLhyphen"/>ceiving the Mony, as the party had to whom it was firſt given.</p>
+               <p>
+                  <hi>No Mony depoſited in theſe Offices, ſhall be liable to any forfei<g ref="char:EOLhyphen"/>tures to the Crown: but the party depoſiting it, ſhall have liberty to diſpoſe of it as fully and freely as if he were not at all obnoxious.</hi>
+               </p>
+               <p>This will give ſome Credit and Reputation to Bank Mony, whilſt it is freed from this inconvenience.</p>
+               <p>It will be no great prejudice to the Crown, the perſonal Eſtates of Men convicted for Felonies, are uſually imbezeled, and the King is cheated of them: Beſides he may be recompenſed another way, out of the profit of theſe Offices.</p>
+               <p>
+                  <hi>The whole Eſtate of the neighbour-hood real and perſonal, ſhall be obliged to make good all the acts of their Office, as the Hundred is now bound to repair men robbed.</hi>
+               </p>
+               <p>The Free-men of <hi>London</hi> are bound (as I have been informed) to make good the acts of the Lord Major, Court of Aldermen, and Common Coun<g ref="char:EOLhyphen"/>cil. The whole Nation is a Fund to raiſe rates for the poor, and to pay the aſſeſſments the Parliament ſhall lay upon it, this is for charge, and there<g ref="char:EOLhyphen"/>fore may with good reaſon may become a Fund in expectation of profit, where there is ſo little appearance of any loſs.</p>
+               <p>This will be no prejudice to any mans Eſtate. Land without this incum<g ref="char:EOLhyphen"/>brance is not worth above twenty years purchaſe, ſet up theſe Offices, and with this incumbrance in a little time the ſame Lands will be worth forty
+<pb n="6" facs="tcp:46923:5"/>
+years purchaſe; ſo that Owners will have no cauſe to complain.</p>
+               <p>
+                  <hi>That this Incumberance may be the leſs, the Neighbourhood of every Precinct ſhall chooſe yearly their ſtated Officers, who ſhall give Security to the Neighbourhood, the Precinct ſhall not be dam<g ref="char:EOLhyphen"/>nified.</hi>
+               </p>
+               <p>The Neighbourhood ought to chooſe their own Officers, becauſe they muſt be reſponſible for the Actions of their Officers: For this Rea<g ref="char:EOLhyphen"/>ſon the Freemen chooſe their Common-Counſel.</p>
+               <p>If they chooſe their Officers, they will endeavour to chooſe able and ho<g ref="char:EOLhyphen"/>neſt men that may deal juſtly, and the neighbourhood will be in no more danger of being damnified by their Officers, than the Freemen of <hi>London</hi> have been prejudiced by theirs in the Chamber of <hi>London,</hi> which hath been nothing at all for many years, as far as ever I have heard.</p>
+               <p>
+                  <hi>Beſides theſe Stated Officers, the Precinct may chooſe twenty four ſubſtantial Perſons to be Aſſiſtants to theſe, as the Common-Counſel is to the Lord Major and the Court of Aldermen.</hi>
+               </p>
+               <p>Theſe extraordinary Officers will be a great Bullwork againſt dead loſſes, when as nothing ſhall be done, in which there is hazard, without their conſent: It may well be ſuppoſed, they will be careful the Neigh<g ref="char:EOLhyphen"/>bourhood ſhall not be injured, becauſe they muſt equally prejudice them<g ref="char:EOLhyphen"/>ſelves with their Neighbours.</p>
+               <p>The ſtated Officers ſhall have power only to receive in Money, to give cut Bills of Credit and Bills of Return; and to pay theſe Bills when they ſhall be brought to them. But in caſe any Money is to be lent out, any Land is to be purchaſed, or any act to be done wherein there is hazard, the Aſſiſtants are always to be conſulted with; which will in a great mea<g ref="char:EOLhyphen"/>ſure ſecure the Precinct from many inconveniencies that otherwiſe might enſue.</p>
+               <p>
+                  <hi>A Superiour Officer to theſe muſt be conſtituted at</hi> London <hi>to be as a Head to theſe Inferiour Officers, to give direction and motion to them: theſe ſhall meddle with no Money, but be a Check to all that do; and once a year they ſhall ballance theſe Accounts of all the Inferiour Offices, to ſee the Condition of the Nation, and to state what is gotten or loſt by the particular Offices.</hi>
+               </p>
+               <p>
+                  <pb n="7" facs="tcp:46923:6"/>There will be returns made from one Office to another, backward and forward: therefore there is a neceſſity of ſome ſinew to go through, and influence all of them, which can be ſtated no where ſo conveniently, as at <hi>London,</hi> the Center of Traffick and Commerce.</p>
+               <p>The Superior Office will be a bridle upon the inferior Offices, that they ſhall not run a ground, eſpecially if their accounts be ſent to them once a Month.</p>
+               <p>
+                  <hi>The Superiour Officers may be choſen by the Aſſiſtants one for a County,; if the County be large, more may be choſen for it, as ſhall be agreed upon.</hi>
+               </p>
+               <p>It will be too great trouble for all the Perſons in a County, capacitated to elect the Inferiour Officers, to be convened at theſe Elections, the Aſ<g ref="char:EOLhyphen"/>ſiſtants are, as their Repreſentatives, and may be in reaſon have the ele<g ref="char:EOLhyphen"/>ction of the Superiour Officers, being better able to judge, than the more inferiour perſons are.</p>
+               <p>
+                  <hi>The Salaries of all theſe Officers may be payed out of the clear Profits of theſe Offices, and not be much felt.</hi>
+               </p>
+               <p>Suppoſe the charge of theſe Officers and Offices ſhould be two or three hundred thouſand pounds per Annum, the very Perquiſites, and ſmall ac<g ref="char:EOLhyphen"/>cidental advantages will go a great way towards the defraying of them. If they ſhould fall ſhort, what is wanting, may be taken out of the clear Profits.</p>
+               <p>
+                  <hi>Theſe Conſtitutions would make the beſt Fund of a Bank yet in the World, that I ever heard of; becauſe it cannot fail, unleſs the Iſland ſink into the Sea.</hi>
+               </p>
+               <p>Banks, where Money in ſpecie is the Fund, though in a fortified Town, defended by an Army, may be violated; witneſs the danger <hi>Amſterdam</hi> was lately in: But Land will lie in the ſame place, if a Torrent of War come, until the Inundation is over, unleſs the Laws of the Land be wholly altered, which we cannot well ſuppoſe a Conqueror would do.</p>
+               <p>
+                  <hi>Let the Creditor have as eaſie a way as poſſible to recover the Debt of the Neighbourhood, in caſe the Officer fail to be punctual; that none may in the leaſt doubt the value of his Bill of Credit.</hi>
+               </p>
+               <p>
+                  <pb n="8" facs="tcp:46923:6"/>No body would be much troubled, that was robbed of a thouſand pounds between Sun and Sun, if he could eaſily make evident proofs of it, the pre<g ref="char:EOLhyphen"/>ſent ſecurity of the Hundred would be as good as Money to him, abating the charges of the Suit.</p>
+               <p>
+                  <hi>Theſe Conſtitutions will neceſſarily bring in the Bulk of the run<g ref="char:EOLhyphen"/>ning Caſh of the Nation, to paſs through theſe Offices in a little time.</hi>
+               </p>
+               <p>A great part of the Money of the Nation is uſed in a few months upon returns, or in greater Payments; or it would be depoſited here for ſafety by theſe, that have not a preſent occaſion to uſe it, and ſo in courſe would paſs through theſe Banks.</p>
+               <p>
+                  <hi>When Money is brought into theſe Banks, it would keep there, becauſe it would be more ſafe, more portable, and more transfer<g ref="char:EOLhyphen"/>able than Caſh in Specie. Every man therefore would take a Bill of Credit rather than Mony, unleſs in caſes of neceſſity for ſmaller expences; eſpecially if Bank Money, or a Bill of Credit, be made one or two per Cent. better than Caſh in the Cheſt, which may be eaſily done.</hi>
+               </p>
+               <p>The Superiour Office hath power to direct what allowance all perſons ſhall give to make running Caſh Bank Money.</p>
+               <p>Suppoſe this Office orders whoſoever deſires to leave any Money in the Bank for ſafety, and to take a Bill of Credit for it, ſhall pay mint Money into the Office; that is, money new coined, never uſed in any payment, or Tin Money, or they ſhall pay two per Cent. if they pay old Money; or ſo much, as the ſuperiour Officer ſhall ſet the exchange at.</p>
+               <p>This will not be any grievance to the People: For</p>
+               <p n="1">(1) They are not forc'd to leave their Money there, but may have it in their own cuſtody as they have now: if their Caſh is made never the better by this Bank, to be ſure it is not the worſe; and you may be ſure, unleſs they can make ſome advantage by leaving their Money there, all things conſidered, they will not do it.</p>
+               <p n="2">(2) The buſineſs may be ſo ordered, that for ſometime at the firſt, all men that pleaſe may depoſit their Money in theſe Banks without any al<g ref="char:EOLhyphen"/>lowance, ſuppoſe for the firſt three months or ſix months, then fiue ſhil<g ref="char:EOLhyphen"/>lings or ten ſhillings a hundred may be impoſed, as the ſuperiour Office ſhall think fit, and ſo they may riſe gradually, till they come to that height they intend the Change ſhall go.</p>
+               <p n="3">
+                  <pb n="9" facs="tcp:46923:7"/>(3) When Money is once made Bank Money, it always remains ſo, until it be taken out; and ſo this charge is but once; and whoever takes Money out of the Bank, (which all men may do at any time) they know it muſt be put in again upon ſuch and ſuch conditions.</p>
+               <p n="4">(4) Bank Money will be ſo much better than Caſh in the Cheſt to buy what we want, or to pay where we are indebted, as the exchange comes to, be it more or leſs, not only here in <hi>England,</hi> but all the World over. Money is not wholly eſteemed according to the intrinſick value, but at the rate it will paſs currant at, an old Groat is not worth two Pence; but be<g ref="char:EOLhyphen"/>cauſe it paſſes currantly for four Pence, every one eſteems it ſo.</p>
+               <p n="5">(5) The allowance thus paid to make Money Bank Money, will return to the Perſons out of whoſe purſes it goes, namely the clear profit of the Bonk, of which this will be a ſmall part, it will be to the advantage of rich men, in maintaining the poor, in leſſening Taxes, or ſome way or other eaſing them, in diſcharging that, they muſt have paid out of their Pur<g ref="char:EOLhyphen"/>ſes.</p>
+               <p>The raiſing of Bank Mony two <hi>per Cent.</hi> about the value of running Caſh, is not eſſential to the conſtitution of theſe Banks. Men do (as I have ſaid) leave their Mony without intereſt in the hands of an able Citizen, upon the reputation of his honeſty without intereſt, and they would with much great<g ref="char:EOLhyphen"/>er reaſon leave it in theſe Banks, where they have the ſecurity of the Offi<g ref="char:EOLhyphen"/>cer, ſuppoſed to be honeſt, and known to be able; for he hath a Debtor an<g ref="char:EOLhyphen"/>ſwerable to every Creditor, theſe effects will make good the Credit gi<g ref="char:EOLhyphen"/>ven out if they ſhould be imbezeled. The Precinct worth a Million or two, will be able to make the Credit good, and the Creditor can make them wil<g ref="char:EOLhyphen"/>ling, ſo long as <hi>Weſtminſter</hi> Hall ſtands open.</p>
+               <p>If any yet doubt whether men will not be jealous of the Credit of the Bank, as all men are of every new thing. The Bank at the firſt ſetting up muſt be more wary how they give out Credit for any thing, but Mony in ſpecie, for their deſign muſt be firſt to make this a Mony Bank: its own re<g ref="char:EOLhyphen"/>putation within a little while will make it a Credit Bank, whether the Offi<g ref="char:EOLhyphen"/>cer will or no.</p>
+               <p>
+                  <hi>Admit theſe premiſſes (which I think are out of queſtion) then theſe Banks will have a vaſt Credit, and this Credit is equivalent to a vaſt treaſure, and they are in a condition to do whatever any per<g ref="char:EOLhyphen"/>ſon could do, that had an inexhauſtible treaſure.</hi>
+               </p>
+               <p>I mean they may lend out mony to any that will borrow upon good ſecu<g ref="char:EOLhyphen"/>rity, real or perſonal the ſecurity given, in juſt Balances the Credit given out. They may buy whatever is to be ſold: the thing bought is the debtor of the ſame longitude and latitude with the Credit given out to make the purchaſe, ſo that if dead loſſes do not come, and the Officers be able and honeſt, the Bank is in a capacity to give out Credit in infinitum which will
+<pb n="10" facs="tcp:46923:7"/>
+be unqueſtionably currant: becauſe the Province ſtands behind to make all failers good, if the clear profit ſhould not be able to do it.</p>
+               <p>
+                  <hi>The firſt thing I propoſe, theſe Banks ſhould ingroſs, is the Tin, and that they ſhould alſo become farmers to his Majeſty for his Tin Farms.</hi>
+               </p>
+               <p>There is little Tin raiſed in the World, beſides what is dug in <hi>England,</hi> this is now become a drug by the plenty of it; and becauſe the Farmers of the Tin have not been able to keep it for a Market, theſe Offices might lay up all our Tin, and ingroſs all other Tin that ſhall be found in the World, and keep it without any charge, till the ſcarcity of it will force the World to ſet a better rate upon it than now they do.</p>
+               <p>
+                  <hi>Let ſo much of this Tin be made into leſſer Mony, as may be needful for theſe Nations, and for the Plantations at the intrinſick value, Tin may riſe to, when it is kept for a Market.</hi>
+               </p>
+               <p>Tin may be prepared for this purpoſe at five ſhillings, or at moſt at ten ſhillings the hundred, that it may be fit for Coinage, and when any deſire to melt it down, it will be ſo much better to make Utenſils of, as the preparing coſts.</p>
+               <p>It will be no loſs to the Crown to call in Copper-Farthings and Halſe-Pence, though they are made much under the intrinſick value, ſeing they ſhall be exchanged for Tin Mony, made at preſent, more under the intrinſick value than they are, rhough in a ſhort time, when Tin is riſen by being kept for a Market, they will have an intrinſick value in them, and it may be, more than the value; then they will be melted down, and become a Com<g ref="char:EOLhyphen"/>modity, when they grow ſcarce, more may be quickly made, ſeing the Me<g ref="char:EOLhyphen"/>tal is of our own growth.</p>
+               <p>
+                  <hi>The ſurpluſage of the Tin, which it is like will be very great, may remain in blocks and engots, and be made currant Mony as it is, at the Market price.</hi>
+               </p>
+               <p>The Superior Office may ſet the price of Tin, to riſe and fall, as they ſhall ſee cauſe, and the Offices ſhall be obliged to take it in as Mony, at the ſame rate they pay it out.</p>
+               <p>It will be no inconvenience that ſome conſiderable quantity of this Me<g ref="char:EOLhyphen"/>tal ſhould be layed into theſe Offices, if it was to the value of ſome Millions it would be the better. Firſt it would be no charge, ſeing the Credit foun<g ref="char:EOLhyphen"/>ded upon it would paſs as Mony doth; and further, If any malicious de<g ref="char:EOLhyphen"/>ſign ſhould be upon theſe Offices, to draw out all the Mony in them, to
+<pb n="11" facs="tcp:46923:8"/>
+break the Credit of them, this Tin would choak thoſe that ſhould attempt it. Though Tin kept up in theſe Banks ſhould be worth five Pounds, or ſeven Pounds the Hundred, or more, yet if a great quantity of it; even all the Banks have, ſhould be taken out of a ſudden, it would not be worth for<g ref="char:EOLhyphen"/>ty ſhillings the Hundred.</p>
+               <p>Further, It is no diſcredit to a Nation to have groſs Mony made of the Metal of their own growth, up to the intrinſick value of it, this is better than Silver, to be ſold as a Commodity, if old Mony was melted down, it would not be of the value it goes at in Mony: but Tin Mony as a Commo<g ref="char:EOLhyphen"/>dity would anſwer the rate it goes at as Mony.</p>
+               <p>It is no inconvenience to have groſs Mony, whilſt we have theſe Offices to depoſit it in. A Bill of Credit upon this Tin is more ſafe, more portable, and more transferrable than Gold, and will be as uſeful as Gold in ſpecie, provided we have Silver enough for our leſs expences.</p>
+               <p>No perſon will be troubled, he hath a Bill of Credit upon the Bank, which they may pay with Tin, if they pleaſe, ſeing he knows it is kept in ſure hands, he cannot loſe by it, ſo long as it lies there, he can ſell his Bill for Silver at one or two <hi>per Cent.</hi> more than the denomination it bears.</p>
+               <p>
+                  <hi>I ſhall at preſent forbear to dilate any further upon the advan<g ref="char:EOLhyphen"/>tages that will attend theſe Banks, we ſee what they do elſewhere, and may believe they will have the ſame effect here, eſpecially ſeeing the Fund is better than any other, and this Nation in regard of the Scituation of the place, and conſtitution of the Government is fitter to ſet theſe Banks up in, than moſt other places are. I ſhall now pro<g ref="char:EOLhyphen"/>ceed to the ſecond head, to make ſome propoſals from which a Bill may be prepared to ſet theſe Offices on foot. I preſume no perſon ex<g ref="char:EOLhyphen"/>pects to have things ſo digeſted, that they ſhall not admit of any alte<g ref="char:EOLhyphen"/>ration: they are humbly ſubmitted to the Parliament as ſome gene<g ref="char:EOLhyphen"/>ral hints, which they may uſe, or refuſe as they pleaſe. The Fiſh<g ref="char:EOLhyphen"/>ery in</hi> Holland <hi>(as I have been informed) hath ſuffered two and twenty alterations before it could be brought to the ſtate it is now in.</hi>
+               </p>
+               <p>
+                  <hi>It is not to be imagined the Parliament it ſelf, though very ſaga<g ref="char:EOLhyphen"/>cious, will be able unalterably to ſettle things, at Firſt, the practice of theſe Offices muſt perfect the theory. It is enough I ſhew the thing is practicable, and with pains and patience may be brought to perfe<g ref="char:EOLhyphen"/>ction. The greatneſs and goodneſs of the thing will juſtifie the prudence of the Parliamont to attempt it, whilſt it doth not ſeem impoſſible.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="proposals">
+            <pb n="12" facs="tcp:46923:8"/>
+            <head>Some Out-lines: Or a rough draught of ſome Propoſals, preparatory to a Bill, In order to an Act of Par<g ref="char:EOLhyphen"/>liament, to facilitate the return of Mony, to prevent Robbing: as al<g ref="char:EOLhyphen"/>ſo to quicken Trade, and bring in Bullion to the Mint, by raiſing a Bank.</head>
+            <p n="1">1. WHereas diverſe Robberies are daily committed to the loſs of many mens lives, and ſundry Robberies are pretended to be committed to the damage of the Hundreds where they are done, or pretended to be done.</p>
+            <p n="2">2. And whereas great inconveniences do accrue to the Crown and Peo<g ref="char:EOLhyphen"/>ple for want of an expeditious and ſecure way of returning Mony from one part of the Nation to another.</p>
+            <p n="3">3. And whereas Banks are very advantagious to Trade, and in maritime places do exceedingly increaſe Seamen and Shipping.</p>
+            <p n="4">4. And whereas for want of theſe Banks (which do much increaſe the Running Caſh) Trades-Men are forc'd to deal upon truſt, to their great loſs.</p>
+            <p n="5">5. And whereas no Nation (let the ſtaple Commodity be what it will (even Gold and Silver it ſelf) can grow and continue great without Trade.</p>
+            <p n="6">6. And whereas the growth, increaſe and continuance of Trade, de<g ref="char:EOLhyphen"/>pends upon a capacity of bringing in a competent quantity of Bullion to the Mint, to increaſe our ſtock of Coin, and to repair the waſt of our run<g ref="char:EOLhyphen"/>ing Caſh.</p>
+            <p n="7">7. And whereas thoſe pious acts to relieve neceſſitous perſons through the exorbitancy of the Poor, and other abuſes are become a grievance.</p>
+            <p n="8">8. And whereas ſundry frauds do happen in the receits and payments of greater ſums of Mony.</p>
+            <p n="9">
+               <pb n="13" facs="tcp:46923:9"/>9. And whereas the owners of Houſes, Lands and Ships are not able to ſupply themſelves with Mony upon them, by reaſon Titles are uncertain.</p>
+            <p n="10">10. And whereas diverſe perſons let their Mony ly dead by them, leſt they ſhould make bad Debts.</p>
+            <p n="11">11. And whereas ſudden ſupplies of mony are neceſſary to the Crown and Kingdom in caſe of any rebellion at home, or Invaſion from abroad.</p>
+            <p n="12">12. And whereas Mony Banks are in danger of violence in caſe of any diſturbance amongſt the People, where they are not kept in a fortified Town, and ſecured by an Army.</p>
+            <p n="13">13. And Laſtly, Whereas the great difficulty in ſetting up Banks, is to provide a conſiderable quantity of ready Mony to anſwer all Bills when they ſhall be brought to them.</p>
+            <p>It is propoſed that a Bill may be prepared, that the Kingdom of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and Dominion of <hi>Wales</hi> may be divided into ſeveral Precincts, in man<g ref="char:EOLhyphen"/>ner and form following. That is, <hi>&amp;c.</hi>
+            </p>
+            <p>Alſo it is propoſed, that in the moſt convenient place of each of theſe Precincts an Office ſhall be erected for the returns of Mony, and for the making of greater payments, namely an Office ſhall be erected at <hi>York, &amp;c.</hi>
+            </p>
+            <p>It is propoſed that the Town where theſe Offices ſhall be ſetled, ſhall keep a Watch for the ſecurity of the Office againſt Robberys.</p>
+            <p>It is propoſed that the Neighbourhood within the Precinct according to their Eſtates, ſhall chooſe one to be Maſter of the Bank, and they ſhall chooſe twenty four aſſiſtants to him, each of which ſhall have 50 <hi>per Annum,</hi> On the Firſt <hi>Tueſday</hi> in <hi>October,</hi> at the place where the Office is appointed, that is, every perſon that hath 10<hi>
+                  <abbr>l.</abbr> per annum,</hi> or 200<abbr>
+                  <hi>l.</hi>
+               </abbr> perſonal eſtate ſhall have one voice, and every one, that hath double that eſtate, ſhall have two voices and ſo upwards, till you come to 100 <hi>
+                  <abbr>l.</abbr> per Annum</hi> he ſhall have ten voices, but none ſhall exceed that number.</p>
+            <p>It is propoſed, that each of theſe Offices ſhall have a Seal, and be Incor<g ref="char:EOLhyphen"/>porate.</p>
+            <p>It is propoſed that a return ſhall be made from every Pariſh, to the two next Juſtices of the Peace, of the eſtates every one hath within their Pa<g ref="char:EOLhyphen"/>riſh.</p>
+            <p>It is propoſed all the Juſtices of the Peace within the Precinct ſhall be preſent at the election, and ſhall have the overſight and management of it.</p>
+            <p>This Maſter of the Bank ſhall be a perſon of eſtate, who by himſelf and friends, may give ſecurity, that the Neighbour-hood ſhall not ſuffer by his neglect or irregular actings.</p>
+            <p>The Maſter of the Bank ſhall have a Salary of — and ſhall chooſe one or more Clerks to be approved of by his aſſiſtants, who ſhall have a Salary of — out of the clear profits.</p>
+            <p>
+               <pb n="14" facs="tcp:46923:9"/>The Maſter of the Banks and his Clerks ſhall attend the Office at ſuch times, as the aſſiſtants ſhall appoint.</p>
+            <p>The major part of the aſſiſtants ſhall be neceſſary to make a <hi>Coram,</hi> and ſhall meet the firſt <hi>Mondy</hi> in every Month, and oftner, if need requires to aſſiſt the Maſter, as there ſhall be occaſion, and ſhall be allowed for each meeting —</p>
+            <p>It is propoſed that the eſtate of the whole Precinct real and perſonal, ſhall be obliged to make good the acts of the Bank, as in the caſe of Robbe<g ref="char:EOLhyphen"/>ries.</p>
+            <p>It is propoſed that all perſons whoſoever ſhall have liberty to pay any ſum of Mony above 5<abbr>
+                  <hi>l.</hi>
+               </abbr> or upwards, into theſe Offices, which ſhall be re<g ref="char:EOLhyphen"/>paid him again at any Office, where he ſhall deſire it.</p>
+            <p>If the return be immediately to or from <hi>London,</hi> the Mony ſhall be paid in ſix days; but if the return be double, that is, from <hi>York</hi> to <hi>Briſtow,</hi> which muſt be by <hi>London,</hi> fourteen days ſhall be allowed.</p>
+            <p>All perſons returning Mony, ſhall pay one peny the pound, if the return be above a hundred miles, and one half peny the Pound, if the return be under a hundred miles, but ſhall be at his liberey to return it cheaper if he can.</p>
+            <p>Provided never the leſs, that all his Majeſties Monies ſhall be returned <hi>gratis,</hi> and alſo be made Bank Mony <hi>gratis.</hi>
+            </p>
+            <p>It is propoſed that a private Mark ſhall be agreed upon between the Of<g ref="char:EOLhyphen"/>fice and the perſon returning Mony to prevent the loſs of the Bill by Thieves.</p>
+            <p>It is propoſed, that if by any accident, eſpecially at the firſt ſetting up theſe Offices, there be not Mony in <hi>ſpecie</hi> to anſwer all perſons deſiring it, the Office ſhall give the Creditor a Bill of Credit for his Mony, for three Months, and ſhall pay the common intereſt during that time, unleſs Mony in <hi>specie</hi> be provided ſooner, and if then the Office do not day the princi<g ref="char:EOLhyphen"/>pal and intereſt; the Creditor ſhall recover it of the Province, by ſuch means as ſhall be appointed, and ſo ſhall all other perſons that are not juſtly dealt withal.</p>
+            <p>It is further propoſed, that all greater payments of 100 <abbr>
+                  <hi>l.</hi>
+               </abbr> or upwards, ſhall be paid through theſe Banks by the Debtor to the Creditor, elſe they ſhould not be good in Law.</p>
+            <p>Provided nevertheleſs that all leſſer payments of 5 <abbr>
+                  <hi>l.</hi>
+               </abbr> and upwards, may be paid into theſe Banks, if the Debtor pleaſes.</p>
+            <p>It is propoſed, that if any perſon deſire to leave his Mony in <hi>ſpecie,</hi> to be kept by the Banks, and takes a Bill of Credit, he ſhall pay in Mint Mo<g ref="char:EOLhyphen"/>ny, or Tin Mony into the Bank, or he ſhall pay ſo much in the hundred as the ſuperior Office ſhall direct.</p>
+            <p>It is propoſed, that all Mony left in any of theſe Offices upon which a Bill of Credit is given out, ſhall be free from all Forfeitures and Confiſca<g ref="char:EOLhyphen"/>tions, what crime ſoever the owner ſhall be convicted off.</p>
+            <p>It is propoſed, that all Bills ſhall be written in Marble Paper, the upper
+<pb n="15" facs="tcp:46923:10"/>
+part of the Bill ſhall be cut off Indenture-wiſe, this Talid or Indenture ſhall be kept in the Office, where Credit is given out, or ſent to the Office where Mony is to be received upon accounts of returns, in this Talid ſhall be written the Year, the Month, the day, the Perſons name, the ſum and the number of the Bill.</p>
+            <p>It is propoſed, that in caſe Mony ſhall lye dead in theſe Banks, it ſhall be diſperſed amongſt the neighbour-hood at ſmall intereſt upon good ſecu<g ref="char:EOLhyphen"/>rity, to be paid at three Months notice, for which time the Neighbour-hood ſhall pay the common intereſt.</p>
+            <p>It is propoſed, in caſe of any common calamities, the Banks ſhall pay the common intereſt to all perſons requiring their Mony, until they can turn their effects into Mony.</p>
+            <p>It ſhall be Felony without Clergy to counterfeit, or ſteal a Bill, or by force to attempt the violating any of theſe Banks.</p>
+            <p>It is propoſed, that one peny ſhall be allowed to the Office for every Bill of Credit, or Bill of return received in, or give out for every ſum un<g ref="char:EOLhyphen"/>der 20 <abbr>
+                  <hi>l.</hi>
+               </abbr> and two pence ſhall be allowed for every Bill under 40<hi>
+                  <abbr>l.</abbr> &amp;c.</hi>
+            </p>
+            <p>It is propoſed that theſe Bills of Credit given out by any of theſe Of<g ref="char:EOLhyphen"/>fices be made transferable..</p>
+            <p>It is propoſed, that one Publick Hoſpital, and one Publick Work-houſe ſhall be erected in every Precinct, to entertain the aged, impotent and idle poor, who ſhall be provided for out of the clear profits of the Bank.</p>
+            <p>The Maſter of the Bank ſhall have power to order theſe houſes, as a Juſtice of the Peace.</p>
+            <p>It is propoſed, that the Maſter of the Bank ſhall have power only to receive in, and to pay out Mony, to give out Bills of Credit, and Bills of Exchange.</p>
+            <p>If he ſhall do any thing beyond theſe, without the direction of the aſſi<g ref="char:EOLhyphen"/>ſtants, he ſhall be anſwerable for all the loſs, and bear the Province harmleſs.</p>
+            <p>It is propoſed, that in all caſes of hazard, the Maſter of the Bank ſhall take the advice of his aſſiſtants at their Monthly meeting, and ſhall call them together oftner, if he thinks the neceſſity of his affairs require it.</p>
+            <p>The aſſiſtants ſhall have power to give direction when and where he ſhall provide an Hoſpital, and a Work-houſe, what goods the Poor shall make, when and at what rates they shall be ſold.</p>
+            <p>The aſſiſtants shall direct what Mony shall be lent out, and what ſecurity shall be taken.</p>
+            <p>The aſſiſtants shall have power to direct the buying of Ships, Houſes, Lands, and how they shall be diſpoſed of.</p>
+            <p>The aſſiſtants shall have power at any time to direct when the Mony shall be diſperſed amongſt the neighbour-hood, and when it shall be called in again.</p>
+            <p>
+               <pb n="16" facs="tcp:46923:10"/>The aſſiſtants shall direct (if they judge convenient) the ſetting up a Lomber.</p>
+            <p>All Goods brought into theſe Lombers, shall be in the ſame condition as Goods ſold in the open Market, and proviſion may be made that the Banks and Lombers may not ſuffer by the Statute of Bankrupt.</p>
+            <p>It is propoſed, that a ſuperior Office shall be erected at <hi>London</hi> of re<g ref="char:EOLhyphen"/>ſponſible perſons.</p>
+            <p>The aſſiſtants to the Maſters in every County, shall chooſe theſe at their reſpective County Towns, on the ſecond <hi>Tueſday</hi> in <hi>October,</hi> one for a ſmall County, and more for a greater County, according to their big<g ref="char:EOLhyphen"/>neſs.</p>
+            <p>The major part of theſe shall make a <hi>Coram,</hi> and shall be preſent at their Office — hours in the forenoon, and — hours in the afternoon, and shall have a Salary of — <hi>per Annum,</hi> this Office shall have a Seal, and be incorporate.</p>
+            <p>This Superior Office shall meddle with no Mony, but be a check upon all that do.</p>
+            <p>This Superior Office shall have the accounts of the inferior Offices re<g ref="char:EOLhyphen"/>turned to them every Month, and shall once a Year ballance all their ac<g ref="char:EOLhyphen"/>counts that the eſtate of the whole Notion may be underſtood.</p>
+            <p>This Superior Office shall have power to order the transferring of Mony from one Office to another, from the place where it is ſuperfluous, to the place where it is wanting.</p>
+            <p>This Superior Office shall have power to erect factories for the mana<g ref="char:EOLhyphen"/>ging Trade at home, and abroad: or it may be left to inferior Offices to do as they think good.</p>
+            <p>This Office shall have power to direct what goods homebred or foreign, shall be engroſſed, eſpecially Tin and Lead, from whence Mony or Cre<g ref="char:EOLhyphen"/>dit may be moſt conveniently drawn, by what Office, or Officers theſe Goods shall be ſold, and where the product of them shall be depoſited.</p>
+            <p>It is propoſed, as ſoon as theſe inferior Banks shall have Mony or Credit ſufficient, the Superior Officers shall direct the buying up all the Tin at the Market price (if they think fit) and shall be Farmers to his Majeſty for his Tin Farm.</p>
+            <p>So much of this Tin as is requiſite, shall be Coined into ſmaller Mony, the remainder shall remain in Blocks, and Engots, and be currant Mony of <hi>England</hi> at the Market Price.</p>
+            <p>This Superior Office shall have power to ſet the intereſt of Mony under ſix <hi>per Cent.</hi> to ſet the Market price of Tin, and what allowance old Mony shall give to be made Bank-Mony.</p>
+            <p>This Superior Office shall have the power of ſetting up, promoting and ordering the Fishery, or this may be left to inferior Offices which shall be upon the place.</p>
+            <p>This Superior Office shall have power in caſe of any emergency to ſup<g ref="char:EOLhyphen"/>ply
+<pb n="17" facs="tcp:46923:11"/>
+his Majeſty with what Mony they think neceſſary without intereſt, un<g ref="char:EOLhyphen"/>till a Parliament be convened.</p>
+            <p>All Officers and Offices shall have the ſame priviledge to recover any thing due to them as his Majeſty hath, and no judgment confeſſed shall be available, till the Office be ſatisfied.</p>
+            <p>This Superior Office shall be accountable to none but to the Parliament.</p>
+            <p>If ſo great a loſs do happen to any Precinct, that the Precinct cannot bear it without ruine, this Superior Office shall relieve them upon the whole Nation, as they shall judge convenient.</p>
+            <p>The Superior Office taking the accounts of the inferior Offices shall diſ<g ref="char:EOLhyphen"/>tinctly ſtate the profits yearly of every Office, that they may have the share of the profits of their own Banks ſeverally.</p>
+            <p>All Officers shall be choſen yearly, and the power of the old Officers shall ceaſe upon the Firſt of <hi>January,</hi> and the new elected Officers shall then enter upon their Offices.</p>
+            <p>To the end theſe Banks may have ſecurity to extend their Credit upon; It is propoſed, that all perſons, if they pleaſe, may regiſter Ships, Houſes and Lands, of which they are, or think themſelves to be proprietors.</p>
+            <p>The aſſiſtants to the Maſter of the Bank ſhall have power to conſtitute the Maſter of the Bank to be the Regiſter, or any other perſon they ſhall judge more convenient, and they ſhall appoint the Maſter of the Regiſter, Clarks under him, and ſhall give ſuch Salaries as they ſhall think fit.</p>
+            <p>Whoſoever intends to regiſter his Lands, Houſe or Ship ſhall put up a Bill upon the Church door for four Sundays, there to remain from eight of the Clock in the morning, till four in the after-noon, at the place where the perſon regiſtring lives, and alſo where the Houſe ſtands, or Land lies.</p>
+            <p>The Miniſter and Church Wardens of the Pariſh, ſhall certifie to the Office under their hands that this is done, with a true Copy of the paper ſet up, and in every Pariſh there ſhall be kept a Regiſter of theſe Bills.</p>
+            <p>The Houſes and Lands ſhall be regiſtred in the Office where the Lands ly, and the Houſes ſtand, Ships ſhall be regiſtred in the Office where the owner or owners live.</p>
+            <p>The party regiſtring his Ship, Houſe or Land, ſhall go to the Office with this Certificate, which ſhall be there recorded, and a breviate of the Deed, with the uſes it leads to, and the incumbrances that are upon it.</p>
+            <p>All perſons ſhall have liberty within the ſpace of Six Months after this re<g ref="char:EOLhyphen"/>giſtration, to bring in their Claims, and to enter the incumbrances they have upon the Land: but if they do not enter them within the ſpace of ſix Months, they ſhall be utterly void.</p>
+            <p>The party regiſtring ſhall allow to the Officer — for every ſheet of Parchment containing the evidence, <hi>&amp;c.</hi>
+            </p>
+            <p>The Nation is now ſatisfied, of what great a uſe a regiſter would be, and it is evident a voluntary regiſter would be no grievance to any, it would be a great advantage to many, if theſe Offices ſhould be ſet up, where the
+<pb n="18" facs="tcp:46923:11"/>
+regiſter might be kept, three parts of four of the difficulty is over, and much of the charge would be abated.</p>
+            <p>How great the benefits of theſe Banks will be, cannot eaſily be deter<g ref="char:EOLhyphen"/>mined, they will be to the Nation what an inexhaustible treaſure would be.</p>
+            <p>It is evident the Bank ſhall have the benefit of ſo much Mony as they can let out to intereſt at two or three <hi>per Cent.</hi> they ſhall pay no intereſt, nei<g ref="char:EOLhyphen"/>ther ſhall they ever pay in the principal, ſo long as they continue to be a Bank.</p>
+            <p>The Bank ſhall have ſo much benefit as they can make of an inexhauſtible treaſure, by laying it out upon Ships, Houſes, Lands, or any Goods they think they can get by.</p>
+            <p>The accidental profits mentioned in the Propoſals, will amount to two or three hundred thouſand Pounds <hi>per Annum,</hi> or probably to ſo much as may diſcharge the Offices and Officers.</p>
+            <p>How theſe clear profits ſhall be diſpoſed of, I dare not preſume to meddle with, but leave it to the Parliament to determine.</p>
+            <p>If they be divided between the Crown and People, the Peoples ſhare may be employed, in maintaining the poor, ſetting up Work-houſes, Ware-houſes, Granaries, in making Rivers Navigable, High-ways paſſable, <hi>&amp;c.</hi>
+            </p>
+            <div type="supplement">
+               <head>A ſupplement to the Propoſals, ſhewing what the benefit of theſe Banks will be, with an anſwer to the material Objections that may be made against theſe Propoſals.</head>
+               <p>IT is evident, the great Bulk of the Caſh in the Nation in a few Months muſt paſs through theſe Banks, and when Mony is there, no Native or Foreigner will take it out, unleſs in caſe of neceſſity for ſmaller expences; becauſe Mony in the Bank will be better than Caſh in the Cheſt, as Gold is better than Silver; for it will be more ſafe, more portable, more transferable, and of greater value by two in the hun<g ref="char:EOLhyphen"/>dred, than Caſh <hi>in specie</hi> is.</p>
+               <p>No perſon though never ſo ſcrupulous, will queſtion the ſafety of his Mony, or doubt of the Credit of the Banks, for the Maſter will always have
+<pb n="19" facs="tcp:46923:12"/>
+effects in his hands, to anſwer all the Credit given out, being obliged ne<g ref="char:EOLhyphen"/>ver to give any Credit, unleſs he receivs in a Debtor to ballance it.</p>
+               <p>In caſe the Maſter of the Bank ſhall by knavery or folly run himſelf a ground, and imbezel the effects he is intruſted with.</p>
+               <p>He muſt make good the loſs ſo far as his ſecurity goes, which will not ea<g ref="char:EOLhyphen"/>ſily be exceeded, and the Province (if ſuch a thing ſhould happen) muſt bear the reſt out of the clear profit of this or ſome following year, or if that will not do, which is not like to happen, the Province muſt bear the reſt by a Tax.</p>
+               <p>To be ſure the Creditor is at no loſs, he ſues any perſon in the Province, reſponſible for his Debt, and recovers it, as if he was robbed, ſo that the Creditor is ſafe, unleſs the Province ſink into the Earth.</p>
+               <p>
+                  <hi>Object.</hi> Perſons will take their Mony out of theſe Banks, ſome Men will keep their own Mony, though it be only to lock it up.</p>
+               <p>
+                  <hi>Anſ.</hi> I do not intend to give a reaſon for the actions of Children or fools, they may if they pleaſe, to be ſure no wiſe man will do it, unleſs in caſes of neceſſity, which will ſeldom occur. No prudent man will make his Mony worſe than it is, when he need not: it will coſt one or two <hi>per Cent.</hi> or what the Superior Office pleaſes, to make it Bank Mony, and whilſt it is there, it is ſo much better for any uſe, to lend out, or lay out as the charge is; it is not only leſs in value when it is taken out, but it is not ſo ſafe, ſo portable, nor ſo transferable as it was before, and ſo it is every way worſe.</p>
+               <p>Theſe things being admitted, that moſt of the Caſh of the Nation will be brought into theſe Banks, and when it is there, it will keep there, and all perſons, Natives and Foreigners will take a Bill of Credit rather than Mo<g ref="char:EOLhyphen"/>ny, theſe Banks will have an infinite Credit, and be in a condition to lend out Mony at a low intereſt to all perſons that will give them good ſecurity, the intereſt will be clear profit, and to lay out Mony upon Houſes, Lands, Ships, Goods or any Commodity they think they can get by. The product of this Trade will be clear profit, the ſmaller perquiſites, and accidental advantages, mentioned in the Propoſals will go a great way, and probably may diſcharge all the Offices and Officers.</p>
+               <p>How great the profit will be, cannot eaſily be concluded: becauſe we cannot determine how far the Credit ſhall be extended; to be ſure an infi<g ref="char:EOLhyphen"/>nite Credit is equivalent to an inexhauſtible treaſure, which theſe Banks will be the Funds of.</p>
+               <p>I need ſay no more, but leave every body to make their deductions, and to conſider how far they ſhall be advantaged. Some think if I ſhould ſay more, I ſhould ſay leſs, and by over commending a thing, that hath evident worth in it, I ſhould make the excellency of it to be ſuſpected, it would be like overlaying Gold with Silver, or ſprinkling ſweet water upon ſweeter flowers. If we ſhould hear twenty <hi>Engliſh</hi> Ships were arrived, belonging to <hi>Engliſh,</hi> laden with Gold and Silver, all men would rejoyce, though they had no propriety in them, hoping ſome way or other they ſhould be the bet<g ref="char:EOLhyphen"/>ter
+<pb n="20" facs="tcp:46923:12"/>
+for them. Or if the effects of <hi>England</hi> could be made a hundred times bigger than they are, every perſon may rationally hope, he ſhall have ſome advantage more or leſs by them.</p>
+               <p>But becauſe the concern is general, affecting the whole Nation, and ma<g ref="char:EOLhyphen"/>ny perſons cannot ſee where their particular advantage lies, for a general ſatisfaction, I ſhall endeavour to ſhew particularly how theſe Banks will be profitable.</p>
+               <list>
+                  <item>1. To the Nation in general.</item>
+                  <item>2. To the Crown.</item>
+                  <item>3. To the People.</item>
+               </list>
+               <div type="part">
+                  <p>That we may ſee how the Nation in general ſhall be advantaged, we muſt look upon the Nation, as one great Family; for ſo indeed it is, whenever a particular perſon gets, the Nation gets, and the Families grows richer by that acceſſion, and when ever the Nation gets in the general, it muſt be in ſome particular perſons hands, who by that encreaſe do grow richer; for the whole is made up of the parts, and the parts do conſtitute the whole.</p>
+                  <p n="1">1. The Riches of the Nation will increaſe, and much of the Bullion of <hi>Eu<g ref="char:EOLhyphen"/>rope</hi> will be brought in hither; ſuppoſe we import and conſume as many ef<g ref="char:EOLhyphen"/>fects as we do now, and export the ſame quantity of Commodity of our Na<g ref="char:EOLhyphen"/>tive growth, as we have done formerly, and beſides we give out two or three Millions of Bills of Credit, when they are returned upon us, they will be paid with Credit again, the ballance at laſt muſt be Mony, and it will the ſooner be ſo, if we advance the price of Mint Mony two or three <hi>per Cent.</hi> above Bullion or old Mony, which we may do by virtue of our Banks, with<g ref="char:EOLhyphen"/>out any hurt to any perſon. Further if Men grow rich, it will be in Mony, or their dead ſtock will be in Jewels and Plate, as we ſee it is with over<g ref="char:EOLhyphen"/>grown rich Men.</p>
+                  <p n="2">2. The Trade of Merchandizing will increaſe, as I ſhall ſhew afterwards, <hi>England</hi> may become as one City of Trade, and be the Emporie of the World, it is not ſo much the product of our Fertile Land, as the profit of Trade, far ſurmounting this, that makes our Nation flouriſh.</p>
+                  <p n="3">3. The Fiſhery, and diverſe Manufactures may be ſet up, though theſe are managed at firſt to ſome loſs, yet at that time, they will be great gain to the Nation.</p>
+                  <p>There are in <hi>England</hi> three hundred thouſand pair of lazy hands, (ſome think more) that earn little, if theſe be brought to earn but three pence a day, one with another (which may be admitted) the profit to the Nation will be twelve hundred thouſand pounds, if two or three hundred thouſand pounds be loſt in theſe Trades, the reſt will be clear gain to the Nation; for the poor employed, will conſume no more Victuals nor Cloths, when they work, than they do now they are idle.</p>
+                  <p>
+                     <hi>Obj.</hi> We make more goods already, than we can conſume, or than the World will utter.</p>
+                  <p>
+                     <hi>Anſ.</hi> The Fiſhery, the Linnen Manufacture and the making of White Paper fit for Writing and Printing not practicable in <hi>England,</hi> till of late,
+<pb n="21" facs="tcp:46923:13"/>
+and by the great induſtry and care of <hi>Eauſtacey Burneby</hi> 
+                     <abbr>Eſq</abbr>, brought to perfection and may compare with the beſt in the World, and will employ our idle hands; we import yearly in thred, twine, tape, linnen, hemp, flax and paper, above fourteen hundred thouſand Pounds <hi>per Annum,</hi> all this would be ſaved. If we ſhould make more than we uſe, we may export our Commodity, as well as others.</p>
+                  <p>This very conſideration of making Paper of Rags, we now throw to the Dunghil, and employing all the poor in our Linnen Manufacture, which is bought of Foreiners with dry Mony, is a ſufficient argument to excite thoſe in Authority with all their vigour to promote theſe Banks that they may keep their Caſh in the Nation, and be freed from the charge of maintain<g ref="char:EOLhyphen"/>ing their poor by a pound rate.</p>
+                  <p>If the Act for burying in Woollen be re-inforc'd it will raiſe the price of Wool, now worth little, and we ſhould have conſumed more than is now in <hi>England,</hi> if it had bin put in execution, it will alſo prevent the ex<g ref="char:EOLhyphen"/>portation of great quantitys of Wooll before the working of it up. The mixture of our Wooll with Foreign Wooll maketh it fit for Manufacture, which otherwiſe would not be, which is ſold at lower rates, and hinders the ſending over of greater quantitys of Cloth to the prejudice of Woollen<g ref="char:punc">▪</g> Dra<g ref="char:EOLhyphen"/>pers and Clothiers, great part of which are forc'd to leave off their Em<g ref="char:EOLhyphen"/>ployments for want of Trade, the poor would have bin employed in work<g ref="char:EOLhyphen"/>ing up Wooll and making Cloth. If this Act be re-inforced, it will help us to many hundred Tuns of Linnen Rags yearly, which will enable us to ca<g ref="char:EOLhyphen"/>ry on the making of all ſorts of white Paper fit for Writing and Printing; as to the Fiſhery, the <hi>Dutch</hi> to be ſure have made a good Market of it.</p>
+                  <p n="4">4. People will increaſe, Trade will bring in People to the Nation. Where Trade is, there is Imployment, where Imployment is, thither people will reſort, where people are, there will be conſumption of Commodity, if theſe Banks were conſtituted, and Trading did flouriſh, we need not doubt but the <hi>Dutch, Flemiſh, French,</hi> and people from all parts of <hi>Europe,</hi> that have Eſtates would reſort hither, to enjoy themſelves and their Eſtates, and thoſe that are ingenious, would ſeat themſelves here to get Eſtates, provi<g ref="char:EOLhyphen"/>ded a convenient door be opened, to let them in, and reaſonable indul<g ref="char:EOLhyphen"/>gence be given to them, when they are here.</p>
+                  <p>It is not a contemptible conſideration, that theſe Banks will be a great ſafty to the Nation, whilſt all all the World that Trades with us will have a kindneſs for us, eſpecially when theſe Banks keep their Mony, they will deſire, and as far as they can endeavour to preſerve their Caſhiers, leſt they ſhould loſe their eſtates, having nothing but a Bill of Credit for it. I appeal for the confirmation of this to all thoſe that had Credit upon the Bank at <hi>Amſterdam,</hi> what thoughts they had when the <hi>French</hi> King was ſo near thoſe Gates, and whether they would not, if it had been in their pow<g ref="char:EOLhyphen"/>er have diverted him.</p>
+                  <p>
+                     <pb n="21" facs="tcp:46923:13"/>
+                     <hi>Obj.</hi> We have too many people already, and ſome think multitudes of people do not enrich a Nation.</p>
+                  <p>
+                     <hi>Anſ.</hi> It is evident, the Riches of a Nation are the People of a Nation, Lands are at a great rate, where people are numerous, as about <hi>London:</hi> But in <hi>America,</hi> where people are few, it is worth nothing.</p>
+                  <p>This is true, people not imployed, are like Caterpillers to Plants, and Worms to Wood, that only waſt the product of induſtrious hands: But I propoſe imployment, and then there is no doubt the conſumption of the people, is not ſo much as the product of their labours, but they are really the Riches and Strength of a Nation; the more the merrier, like Bees in a Hive, and better chear too.</p>
+                  <p>Lombers would naturally grow out of the ſides of theſe Banks, as Twigs do from Trees, and ſo many of theſe may be ſet up by theſe Offices in the ſeveral parts of the Nation, as may be judged convenient, to lend out ſmal<g ref="char:EOLhyphen"/>ler ſums of Mony upon pawns to mean and neceſſitous people, which would be very advantagious in the Country, as well as in the City; theſe will hurt none but Brokers.</p>
+               </div>
+               <div type="part">
+                  <head>The Crown will be benefited.</head>
+                  <p>The Crown may be ſupplied with whatſoever is neceſſary, and the Prince may have whatſoever humane nature is capable of, in this great abundance nothing will reaſonably be denied to him, only his hands will be tied with theſe Silken Cords, to keep that Station, the conſtitution of this Govern<g ref="char:EOLhyphen"/>ment hath ſet him in.</p>
+                  <p>For a conſiderable ſhare may, if the Parliament pleaſe, be aſſertained to the Crown, out of the clear profits; the Prince and People ought to grow together, elſe the B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dy Politick will be monſtrous.</p>
+                  <p>Upon any ſudden emergency, here will be ready Mony to equip Arma<g ref="char:EOLhyphen"/>does, provide Arms, levy Souldiers, <hi>&amp;c.</hi> until the Parliament is cal<g ref="char:EOLhyphen"/>led.</p>
+                  <p>And when there is leaſure for deliberation; and the Parliament judge it requiſite, theſe Banks will be in a capacity to ſupply the Crown with what ever Mony it needs without intereſt. Suppoſe it ſhould be a Million, if the Bank be certainly repaid, this Million in ten years, that is 100000 a year, the Credit of the Bank will not be at all impaired, and ſo in proportion any ſum over or under this, to the value of ten, yea twenty Millions.</p>
+                  <p>If the Parliament judge it convenient to raiſe Mony by Taxes, how ea<g ref="char:EOLhyphen"/>ſily will they be born? Impoſitions are heavy when people are poor, like a burthen upon a tired Horſe that hath a gald back: but when Rents riſe, Trade flouriſhes, and Mony is plentiful, none will be troubled though great ſums of Mony ſhould be raiſed to ſupport the Government, maintain the Safety, Ho<g ref="char:EOLhyphen"/>nour and neceſſary defence of the Nation. A man that gets a hundred a year, can better pay ten pounds, than the ſame man can pay ten ſhillings, if he gets but ten pounds.</p>
+                  <p>
+                     <pb n="22" facs="tcp:46923:14"/>Theſe Banks will be able at any time to lay in what ſtores his Majeſty pleaſes of Arms, Ammunition and all neceſſaries for Shipping and War to be paied for it, when it is uſed, ſeeing they pay not intereſt themſelves.</p>
+                  <p>Beſides the Riches and Strength that accrue to the Crown in theſe, and many more particulars, its very pleaſant to reflect upon that reverence that all perſons will have to ſuch a Prince, that puts them into ſuch a condition, and by his prudent management keeps them in ſuch a flouriſhing eſtate. When the peoples yoke is lined with peace and plenty, it will make them chearful under it, and not at all deſirous to ſhake it off: if ſome few ſhould ſurfeit and grow wanton, the generality of the people, content in their condition would certainly keep theſe in awe. Methinks the Bees, by all poſſible means preſerving their King, becauſe their very being depends up<g ref="char:EOLhyphen"/>on him, are a perfect emblem of a people honouring ſuch a Prince.</p>
+               </div>
+               <div type="part">
+                  <head>The People ſhall have advantage.</head>
+                  <list>
+                     <item>1. The Poor.</item>
+                     <item>2. The Middle Sort.</item>
+                     <item>3. The Rich.</item>
+                     <item>4. The Mariner.</item>
+                     <item>5. The Merchant.</item>
+                  </list>
+                  <p>In ſhewing the peoples advantage, I ſhall begin with the poor, they have moſt need. I dont mean in this golden Age all ſhall be rich, but the able poor ſhall all be imployed, and well paid for their labour, the able and impotent poor ſhall be comfortably provided for, and have leaſure to think of another World, having had ſo little comfort in this. The Children of the poor, now ſalvagely educated, that when they grow up they are but little above Brutes, ſhall be brought up to learning and labour, and pro<g ref="char:EOLhyphen"/>bably go a great way by their induſtry, to maintain thoſe that are paſt work, however the peoples ſhare of the profit of the Banks will abundant<g ref="char:EOLhyphen"/>ly ſupply what ever is wanting, and the Nation ſhall be freed from the charge of thoſe rates, made in every Pariſh to relieve the poor, which in many places begin to be intollerable; ſome compute the charges to main<g ref="char:EOLhyphen"/>tain the poor to be 300000<hi>
+                        <abbr>l.</abbr> per Annum.</hi>
+                  </p>
+                  <p>As for the honeſt and ingenious poor, that would ſupport themſelves, if they had a little Stock to put them into a way; theſe will find ſome friends to be ſecurity for them, and to give them Credit at the Bank, or if they be really ingenious, frugal, and induſtrious, the Pariſh may give them Cre<g ref="char:EOLhyphen"/>dit, or the Bank it ſelf may do it, without any other ſecurity, but their own. There is ſeldome any loſs, unleſs by accident in truſting ſuch, which the Banks can bear; as for the idle, drunken, brutiſh, debauched yoor, though God made them for other ends, they have made themſelves fit for nothing, but to be Slaves and drudges to thoſe that are more wiſe.</p>
+                  <pb n="23" facs="tcp:46923:14"/>
+                  <p>
+                     <hi>The middle ſort of People will be benefited.</hi>
+                  </p>
+                  <p>As to the middle ſort of people, I mean ſmall Free-holders, Farmers and Tradeſ men, theſe would quickly encreaſe their eſtates by their honeſt in<g ref="char:EOLhyphen"/>duſtry, had they Tools to work with, I mean a plentiful Stock to drive their Trades, husband their Lands, and keep their Commodities for a Market all their defects will be ſupplied by the Banks, ſuppoſing them ingenious and induſtrious.</p>
+                  <p>The mean Trades-man now, ſo ſoon as he hath made a peice or two of Stuff or Cloth, is forced to ſell it at what rates he can, to put him into a capacity to provide new materials, to keep himſelf and dependants in action, but at theſe Banks he may take up Mony upon his Goods, made at the Market price, till better times come, and may upon his own, and friends ſecurity inlarge his Stock. Incouraging the mean and middle ſort of people, that work with their own hands, will raiſe Trade to a greater heighth, than when it is managed only by rich Men, that have great Stocks, who are lazy themſelves, and imploy others, that do their works by the halves; if the poor man be paid for his labour, he lives well, and is ſatisfied; but the rich Artificers, beſides Journey-Mens Wages, muſt have an advantage, or elſe they will quickly be Beggars. Hence in <hi>France</hi> they cut and afford ſtones, at a fourth part of the price, the ſole cutting ſtones with us coſt. The Rich Trades-man, will not like this: No Shoo will fit every foot, my intent is to make this for thoſe, that are tender and weak, the ſtrong will ſhift well enough.</p>
+                  <p>The great complaint is, the <hi>Dutch</hi> and <hi>French</hi> underſel us, becauſe the working of our Manufacture coſts ſo dear, this is a great truth: but this ex<g ref="char:EOLhyphen"/>pedient would in a great meaſure remedy this miſchief.</p>
+                  <p>The induſtrious Husband-man that hath a ſmall Stock under-manages his Lands, and neglects the doing many things he would do to them, for want of Mony. I dare ſay, in many places the ſame Land would bring forth double the increaſe of Corn and Fruit, were it manuged and planted ſo, as a plentiful Stock would enable the Farmer to order it: to inſtance in Mar<g ref="char:EOLhyphen"/>ling Land, which will coſt about 7 <abbr>
+                        <hi>l.</hi>
+                     </abbr> or 8 <abbr>
+                        <hi>l.</hi>
+                     </abbr> the Acre, and it will raiſe bar<g ref="char:EOLhyphen"/>ren Land, not worth above ſix-pence, to be worth forty ſhillings the A<g ref="char:EOLhyphen"/>cre, the firſt ſeven years, and twenty ſhilling the Acre for many years af<g ref="char:EOLhyphen"/>ter. So for ſanding and liming of Land, compoſt that may be had eaſily in moſt places, are neglected for want of Stock, that would pay the charge five times over.</p>
+                  <p>Neceſſitous Farmers muſt do that which will turn to preſent profit, and let that alone which will not turn to account immediately, though it will pay them ten-fold for the forbearance.</p>
+                  <p>Beſides, when they have a plentiful Crop of Corn let the price be what it will, they muſt ſell it, to pay their Rent, as the laſt year, the <hi>Dutch</hi> and other Strangers, Shipd off our Wheat at three ſhillings the Buſhel, which is now worth ſix. Now theſe Banks would provide Granaries to lay up
+<pb n="24" facs="tcp:46923:15"/>
+their Corn in, or if the Farmer hath conveniences of his own, he might take up money or credit to ſatisfie his Landlord, till a Market ſhould offer it ſelf. By this means Corn would never be extraordinarie cheap to undoe the Grower: nor exceſſive dear to ſtarve the Labourer and Artificer.</p>
+                  <p>As to the Landlord, that now is forc'd to fall his Rents, becauſe the middle ſort of people are ſo neceſſitous; he takes Tenents that are underſtock, and is conſtrained to keep theſe, and truſt them, commonly for a years Rent; or occupies his Land himſelf: this miſchief being removed by theſe Banks, the rents of Lands either will riſe, or theſe rents would be better pai'd than now they are.</p>
+                  <p>That theſe middle ſort of Men ſhould have plenty of mony may eaſily be believed; for they may take it up at ſmall intereſt, or theſe Banks may, and doubtleſs will, three or four times a year diſperſe their mony for ve<g ref="char:EOLhyphen"/>ry little Intereſt; ſuppoſe One in the Hundred, and get enough by it too. We will ſuppoſe Ten Millions of ready Caſh in theſe Banks, they diſperſe all this amongſt the Neighbourhood in their ſeveral Provinces; this mony in a few months, will either come into the Banks upon account of Returns; or paſs through the Banks in greater Payments: when it is there, it keeps there, and the Banks get Two in the Hundred by it: and every body is contented with the bargain.</p>
+                  <p>Further, the Gentry that have in a frolick run themſelves generally into Debt, and can never recover, but their Families muſt be ruined, and their Names extirpate, ſhall now be in a better Eſtate, than if they had contracted no Debts at all: their Lands will advance the firſt year theſe Banks are ſet up, to Fifty years Purchaſe, this ſeems a Romance; but if private perſons will not give ſuch rates, the Banks ſhall, and get the whole Rent clear by the bargain, ſeeing they pay the Purchaſe with Credit only. The Gentleman that cannot now borrow Four thuuſand pounds upon One thouſand a Year, without Perſonal Security of friends, beſides the Mortgaging of his Land, ſhall now borrow Four thouſand pounds upon One hundred a year of the ſame Land, without any ſecurity but his own; for the Bank will lend as much mony (moſt of which they pay in Credit) upon any Land within in two or three years Purchaſe; as it is worth to be ſold, at three in the hun<g ref="char:EOLhyphen"/>dred, the Intereſt is clear profit.</p>
+                  <p>Mr. <hi>Yarinton</hi> tells us, <hi>Theſe three Kingdomes are the only Northern Countries not improved, when the Gentry can have plenty of mony at Three</hi> per Cent. <hi>they will improve their Lands themſelves, and teach their Tenants to do ſo too, by their Example, as well in this Nation, as others do in Forrein Parts.</hi>
+                  </p>
+                  <p>Timber would be preſerved when owners do not want mony, and Gentle<g ref="char:EOLhyphen"/>men would Plant more, when they are not in neceſſity, but can forbear the Rent of their Land, till it is cloathed with a ſtock of Timber, that is ten times of greater value, than the Fee-ſimple of the Eſtate.</p>
+                  <p>The Sea-men will not want ſhips, if a perſon hath but one or two Hundred pounds to lay the Keel, the Bank will ſupply him with Ten more upon the Security of the Ship, to be paid Intereſt according to the
+<pb n="25" facs="tcp:46923:15"/>
+hazard: thus for ought I can ſee, in a few years we ſhall have ten times as many <hi>Engliſh</hi>-built Ships as now we have; eſpecially, when theſe Banks will alſo provide imployment for all theſe Ships.</p>
+                  <p>The Merchant that hath a Thouſand pounds ſtock, and brings a Cargo of goods of that value, immediately he takes up a thouſand pounds at the Bank upon theſe goods, which he keeps in his own Warehouſe, only he gives ſecurity by himſelf and friends that he will be honeſt; that is, pay the Office, as he ſells his goods: and thus he doth again and again, as often as he pleaſes, and with one Thouſand pounds ſtock laies in Five thouſand pounds; nay, Ten thouſand pounds worth of goods; ſo that the Stock our Merchants now uſe in <hi>England</hi> may drive five, nay ten times the Trade, they now do: between them and the Bank they may ingroſs the greateſt part of the Merchandize in the World: and moreover, the carrying and recarrying theſe goods will imploy all our Ships.</p>
+                  <p>Its probable, this is no good News to the rich Merchant, that wants no money, he cries out, there are two many Traders, and too much Stock uſed in Trade already, he can be content others ſhould, but is not willing him<g ref="char:EOLhyphen"/>ſelf, to give out.</p>
+                  <p>This is true they think and ſay, as our Trade is now managed by mony at Six <hi>per Cent.</hi> in Ships built at the ſame charge: but if the Intereſt of mo<g ref="char:EOLhyphen"/>ny was low, and the frait as cheap, as it is in <hi>Holland;</hi> I do not ſee Trade could be overlaid, eſpecially, if we bring <hi>Holland</hi> by the Lee, and force <hi>Amſterdam</hi> to come to our Market.</p>
+                  <p>Beſides theſe vaſt advantages as to all mens Eſtates, I have great hopes, theſe Banks, thus uſed, will much conduce to the civilizing the Nation, now degenerate into Debauchery; this ſeems not at all to be the end of them, yet, accidentally it may produce this Effect.</p>
+                  <p>This is a certain truth, no debauched perſon ought to be truſted by a pru<g ref="char:EOLhyphen"/>dent man, when he need not do it: one who is an Atheiſt, that thinks there is no God, is not fit for the ſociety of Man, he will certainly make a prey of his Neighbour, as oft, and as ſoon as he can, he makes his own Inter<g ref="char:EOLhyphen"/>eſt, his eaſe, honour, luſt, or pleaſure to be his God; whilſt he thinks the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e is no other to reward or puniſh.</p>
+                  <p>He that believes there is a God, that hath an abſolute Soverainty over him, and dares in his very preſence be falſe to him, will undoubtedly (when he can do it privately) be diſloyal to his Prince, and treacherous to his Neighbour.</p>
+                  <p>Now when people chooſe their Officers, though they are debauched them<g ref="char:EOLhyphen"/>ſelves, they will endeavour to chooſe men that are morally honeſt in their Converſations.</p>
+                  <p>Theſe Officers will give credit to no perſonal Security, where there is not a pretention at leaſt to Morality: ſo that rich and poor, if they expect to have honour from the People, or profit from theſe Banks, will out<g ref="char:EOLhyphen"/>wardly reform their lives.</p>
+                  <p>I might inlarge here to a Volume, but my deſign is only to give a hint
+<pb n="26" facs="tcp:46923:16"/>
+of the advantages theſe Banks would bring to this Nation, I leave every Man to make further inferences as he pleaſes, their own occaſions and neceſſi<g ref="char:EOLhyphen"/>ties will teach all to make their advantages of this infinite Credit, which is an inexhauſtible Treaſure.</p>
+                  <p>To Conclude, make the Gentry rich, the Farmer flouriſh, the Merchant trade, Ships increaſe, Sea-men to be imployed, ſet up Manifacture for the labour<g ref="char:EOLhyphen"/>ing Poor, provide Maintenance for the Impotent, ſet up new Manufactures, incourage the Old. What may not a King be, and do, that Reigns over ſuch a People, that are not inferiour in courage to any, and doubtleſs their Spirits will riſe higher, when they find, they have Purſes ſuperiour to all.</p>
+               </div>
+            </div>
+            <div type="objections">
+               <head>Objections Anſwered.</head>
+               <p>There are Three main Objections that lie againſt theſe Banks.</p>
+               <p>Object. 1. <hi>Men will not be willing to bring an incumbrance upon their Eſtates, to be anſwerable for the Acts of their Officers, which may be very prejudicial to them.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> 1. The Precinct chooſes their own Officers, and may, if they pleaſe, chooſe ſuch as are able and honeſt, who do give them ſecurity, the Precinct ſhall not be damnified.</p>
+               <p>
+                  <hi>Anſw.</hi> 2. The Aſſiſtants of every Precinct ſuperviſe their Office once every month.</p>
+               <p>
+                  <hi>Anſw.</hi> 3. The accounts of theſe particular ſtated Officers are ſent up every Moneth to be ballanced by the Superiour Officers.</p>
+               <p>
+                  <hi>Anſw.</hi> 4. The City of <hi>London</hi> hath never ſuffered, as far as ever I heard, by their Officers in the Chamber; let their practice be a Precedent.</p>
+               <p>
+                  <hi>Anſw.</hi> 5. This Incumbrance may be ballanced by the advantage every Precinct will have, in that they will be freed from the charge of repair<g ref="char:EOLhyphen"/>ing perſons Rob'd; and alſo from that intollerable charge of maintaining the poor by a monthly rate.</p>
+               <p>
+                  <hi>Anſw.</hi> A full Anſwer to this Objection is this, Lands without this in<g ref="char:EOLhyphen"/>cumberance are now not worth above twenty years Purchaſe, will be worth at leaſt forty years Purchaſe, when this incumbrance is upon them; when theſe Banks are ſet up, ſo that the owners of Lands will have no cauſe to complain, whilſt the value of their Land is double.</p>
+               <p>Object. 2. <hi>The Crown may juſtly be jealous, the People, when they are thus rich, may be armed for, and diſpoſed to Rebellion.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> 6. Government is ſo Sacred and neceſſary to the well-being of Peo<g ref="char:EOLhyphen"/>ple; eſpecially, if they be rich and live at eaſe, that they never riſe in Rebellion, for fear of loſing their riches and leaſt they be diſquieted in, and deprived of, that peaceable, and plentiful condition they poſſeſs. Fools may
+<pb n="27" facs="tcp:46923:16"/>
+grow wanton with Peace and Plenty, they will be eaſily curb'd: but it is oppreſſion only that makes wiſe men mad. Then people Rebel, when they are, or at leaſt think themſelves to be ſo oppreſt, or that their condition will ſuddenly be ſo bad, that, if they be diſappointed in their Rebellion, it cannot be much worſe.</p>
+               <p>The Prince hath the Militia by Sea and Land, the power of Peace and War, a conſiderable revenue, his friends at home, and confederates abroad; and may eaſie diſperſe a Storm ariſing from a ſmall party of inconſide<g ref="char:EOLhyphen"/>rable wanton fools.</p>
+               <p>The Eſtates of the people will be in theſe Banks; if they prove reſtie, they are obnoxious to Juſtice.</p>
+               <p>Though the people are rich in Goods and Lands, yet they will have little mony <hi>in ſpecie</hi> which are the cords of War.</p>
+               <p>The laſy perſons are allwaies the moſt turbulent perſons imploy'd in ho<g ref="char:EOLhyphen"/>neſt occupations, that brings in a pleaſant livelihood; never think of making diſturbance, but mind their own buſineſs.</p>
+               <p>Object. 3. <hi>The other great Objection is, from the People againſt the Prince: Suppoſe</hi> (ſay they) <hi>the bulk of the money of the Nation is gathered into, and lodged in theſe Banks; the King hath the Militia, and may eaſily ſurpriſe it, and ſo make himſelf Abſolute; and for this reaſon, Banks and Trade never thrive un<g ref="char:EOLhyphen"/>der a Monarchy.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Its very true, the great Trade of the World hath been driven by Commonwealths, as <hi>Tyre, Athens, Rhodes, Syracuſe, Agrigentum, Carthage, Venice, Amſterdam;</hi> but I do not ſee any reaſon, why it may not flouriſh un<g ref="char:EOLhyphen"/>der a Monarchy, as it did ſometimes at <hi>Bruges,</hi> and <hi>Antwerp,</hi> and doth now at <hi>Florence;</hi> ſuppoſing the Monarchy is bounded, as it is here with us. Trade indeed, can never riſe to, and continue at any great height in <hi>France,</hi> by rea<g ref="char:EOLhyphen"/>ſon the King is ſo Abſolute.</p>
+               <p>It is againſt the very Nature of Man, that is ingenious, to be frugal and induſtrious, when the fruit of all his Labour is obnoxious to the pleaſure of an other Man.</p>
+               <p>But as things ſtand with us, 1. Our Monarch cannot. 2. Our Monarch will not violate theſe Banks.</p>
+               <p n="1">1. Our Monarch cannot, though he hath the Militia, violate theſe Banks; becauſe they are ſet up in ſeveral places, and cannot be ſurprized all at once.</p>
+               <p>If great numbers be ſent to one place, the other Banks will diſperſe their mony before that can be attempted.</p>
+               <p>Jealouſie is very quick ſighted. If there be the leaſt appearance of danger, the Bank will diſperſe the mony amongſt the Neighbour-hood, as is provided in the Act; they will rather diſperſe it ten times, when there is no juſt cauſe, than be ſurprized once: eſpecially, ſeeing they can ſo eaſily call it in again. Thus the Prince cannot ſeiſe the Banks, to get any conſiderable quantity of mony.</p>
+               <p n="2">2. We can hardly imagine ſuch a King will ever ariſe in <hi>England,</hi> that
+<pb n="28" facs="tcp:46923:17"/>
+will violate theſe Banks. Intereſt Rules the World, and we may ſup<g ref="char:EOLhyphen"/>poſe it will over-rule Princes, when it is conſiderable evident and appa<g ref="char:EOLhyphen"/>rent.</p>
+               <p>It is evident, no King will violate theſe Banks: becauſe 1. he can get nothing conſiderable by attempting them; but 2ly. muſt loſe a great deal by offering any violence to them.</p>
+               <p n="1">1. He can get no great ſtore of mony, as I have ſhewed, if there ſhould be any conſiderable quantity of Tin there, when the Souldiers have taken it out all at once, it would be worth little, no people would give them any thing for it: but rather tell them, they have ſtolen it.</p>
+               <p>As the King can get no mony, and can make little uſe of Tin: ſo he can make no uſe of Bills of Credit, which the Souldier may force the Maſter of the Bank to give out; but the Banks being under violence, their Credit immediately ceaſes to be currant, like the Apples of <hi>Sodom,</hi> touch them and they turn to duſt.</p>
+               <p n="2">2ly. The King by offering violence to theſe Banks, muſt loſe all the great advantages before mentioned, appropriate to the Crown, or more mediately coming to it by the peoples advantage. He kills the Gooſe that lays the golden Egg, and knows there are no more in her Belly, which is to be imprudent beyond the Fable.</p>
+               <p>We can hardly imagine, any Prince ſhould ſo far forget himſelf, if he had in truth that fabulous Philoſophers Stone, that he ſhould in meer hu<g ref="char:EOLhyphen"/>mour caſt it away. Theſe Banks rightly managed, would every way an<g ref="char:EOLhyphen"/>ſwer the advantages of that Stone, if it could be had.</p>
+               <p>If a Prince had really that Stone, he would not keep it himſelf, and turn Founder, that is below him; beſides, he muſt needs be tortured with continual fears, leaſt it ſhould be ſtolen from him. He durſt not adven<g ref="char:EOLhyphen"/>ture it with the beſt of his Nobility, leaſt they ſhould abuſe it, and ſet up themſelves. If he ſhould make Bullion only to ſerve himſelf, every body would envy him, and perhaps plot his ruine for it; if he ſhould make as much Gold and Silver, as his whole People would have, it would either make theſe Metals worth nothing, or deſtroy all induſtry.</p>
+               <p>The beſt uſe any Prince could make of ſuch a Stone (if ſuch a thing was,) would be to put it into ſafe hands (if he could tell where to find them) that they might make ſo much Gold and Silver as would ſupply his own occaſions, ordinary and extraordinary; and furniſh his People with ſo much ſtock as might quicken Trade, improve Husbandry, and ſet up all kinds of Manufactures: for a People thus exerciſed, would be in a better condition to defend their Prince and themſelves, and to offend their Enemies; than if Gold was as plentiful as Stones, and Silver as the Sands; when all would degenerate into effeminacie, and be a prey to their Neigh<g ref="char:EOLhyphen"/>bours for their Riches.</p>
+               <p>Theſe Banks will give this Prince and People all the advantages the Philoſophers Stone could give, without any of the diſadvantages; and therefore we cannot but conclude, he will, inſtead of deſtroying them,
+<pb n="29" facs="tcp:46923:17"/>
+uſe his utmoſt endeavour to defend them; that Himſelf, the Bank, and all his People may injoy Peace and Plenty.</p>
+               <p>It is very true, no Laws have <hi>temperamentum ad pondus,</hi> and are ſo exactly fitted, that they may indifferently ſerve for Peace and War, Plenty and Want; and make a Government ſo ſtable, that it cannot be altered: we ſee all have had their Periods. As in the body Natural, ſo in the body Politick, the contrary humours will be working: But I am ſure, nothing makes a Government ſo firm, nor a Governor ſo ſe<g ref="char:EOLhyphen"/>cure, as when the Prince conſults the proſperity of the People, and the People reciprocally conſult the honour of the Prince. The ſetting up theſe Banks forces them both to their Duty, and ties their hands with ſilken Cords, the maintaining them, declares each minds, their duty; and in this Peace and Plenty will rationally and probably be content; there is no abſolute ſecurity in the affairs of this World, there is a great probability things thus ſetled will indure long.</p>
+               <p>All other Objections beſides theſe Two are of no great moment, and ſcarce deſerve an anſwer; yet, becauſe theſe Banks are of general concern, I ſhall ſay ſomething to whatſoever may ſeem to be ſaid againſt them.</p>
+               <p>Object. 3. <hi>The Officers may be falſe, and prejudice their Province.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> 1. Then they will forfeit their Security, and deſtroy them<g ref="char:EOLhyphen"/>ſelves, before they can hurt others.</p>
+               <p>
+                  <hi>Anſw.</hi> 2. They have not been ſo in the Chamber of <hi>London,</hi> neither can they be ſo; let that be a preſident.</p>
+               <p>
+                  <hi>Anſw.</hi> 3. The Aſſiſtants, as is provided in the Act, will over-look them; and the ſuperior Office will check them.</p>
+               <p>
+                  <hi>Anſw.</hi> 4. If they ſhould be a little prejudiced, which is not likely, they may bear it: becauſe they have much profit.</p>
+               <p>Object. 4. <hi>People will be jealous, especially at the firſt ſetting up, how they truſt theſe Banks, leaſt the ſecurity ſhould not be good.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> If any man had loſt 1000<abbr>
+                     <hi>l.</hi>
+                  </abbr> by Thieves, and could make good proof of it, he would not make much doubt the recovering it of the Country.</p>
+               <p>A mans caſe is better here, Firſt, there is the Obligaton of the Ma<g ref="char:EOLhyphen"/>ſter of the Bank, to make good the Credit, given out, and he will be in a condition to do it: becauſe he never makes a Creditor, but he at the ſame time, makes a Debtor, he is ſure of <hi>Biard</hi> in the Stable, that muſt not go out, before the Credit is ſatisfied; and ſo he may ſatisfie the Credit given out if he pleaſes: but in caſe he failes through foolery or knavery, the Province ſtands behind the Bank, to make all the Acts of it good: ſo that though a mony Bank may fail, whoſe fund is only mo<g ref="char:EOLhyphen"/>ny <hi>in ſpecie,</hi> yet that Bank cannot be blown up, that hath the whole Eſtate real and perſonal of all the Nation to be the fund, though the Bullion miſcarry.</p>
+               <p>
+                  <pb n="30" facs="tcp:46923:18"/>Object. 5. <hi>It is a great adventure to ſtake a Nation, and to put it into a hazard, when we need not.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The whole Eſtate of the Nation is ſtaked as a Fund or Secu<g ref="char:EOLhyphen"/>rity to defray the charges of the Government, and muſt disburſe what the King, Lords, and Commons judge needful, be it more or leſs, the caſe is the ſame, to relieve the Poor, and repair Men Rob'd: and there<g ref="char:EOLhyphen"/>fore may become a Fund in aſſurance of great profit to the Crown, and themſelves; eſpecially, ſeeing they truſt their Eſtates in the hands of their Neighbours, they know, that live amongſt them, equally con<g ref="char:EOLhyphen"/>cerned as themſelves, who ſhall give a yearly account of their acti<g ref="char:EOLhyphen"/>ons.</p>
+               <p>Object. 6. <hi>It will be troubleſome to go to theſe Banks, especially, if per<g ref="char:EOLhyphen"/>ſons live at any diſtance.</hi>
+               </p>
+               <p>
+                  <hi>Vnſw.</hi> No Law was ever made but upon this ſuppoſition, that the ob<g ref="char:EOLhyphen"/>ſerving was troubleſom, even the <hi>Magna Charta</hi> it ſelf. The profit here will weigh down the trouble a hundred times.</p>
+               <p>In Cities it is leſs trouble to go to the Office, and to tranſmit the Credit of 100<abbr>
+                     <hi>l.</hi>
+                  </abbr> than to count it at a Tavern.</p>
+               <p>In the Country, the danger of Robbing avoided, will abundantly recompence the pains of going ten miles to pay, or receive 100<abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </p>
+               <p>Object. <hi>The charge of returning mony, of transfering mony, but eſpeci<g ref="char:EOLhyphen"/>ally of making private mony to be Bank-mony will be great.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> 1. The charge of returning mony will not be ſo much, as it is now, if perſons can return it cheaper by private hands, they need not uſe the Banks.</p>
+               <p>
+                  <hi>Anſw.</hi> 2. The Charge of tranſmitting mony will not be ſo much as the trouble of telling; eſpecially, if the receiver ſhould be impoſed upon but now and then with bad mony.</p>
+               <p>
+                  <hi>Anſw.</hi> 3. As to the charge of making common mony, to be Bank-mony. 1. No body ſhall be forc'd to do it: but every one may, as he doth now, keep his Caſh in his own Cheſt, if he thinks it the beſt way. 2. The Bank-mony will be really better than Caſh in the Cheſt, in the Intrinſick value; as Gold is better than Silver, being more ſafe, more portable, and more transferable; and every one will accept it ſo in all payments, as they do Gold; therefore what is paid, when mony is left in the Banks, is not loſt: ſuppoſe a Butcher buys a ſcore of Oxen of a Graſier in <hi>Smithfield,</hi> and bargains for 100<abbr>
+                     <hi>l.</hi>
+                  </abbr> the Graſier will take 98<abbr>
+                     <hi>l.</hi>
+                  </abbr> of Bank-mony as freely, as 100<abbr>
+                     <hi>l.</hi>
+                  </abbr> of Silver <hi>in ſpecie;</hi> and ſo in all other Caſes.</p>
+               <p>Object. 8. <hi>In caſe of an Invaſion, or common Calamity, the Credit of the Bank will fail, and all men muſt loſe what they have intruſted the Bank with.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The great excellency of theſe Banks are, if the Credit ſhould fail to be currant, yet none ſhould loſe by them, as is provided in the Act, unleſs the Nation be deſtroyed, and then it matters not much
+<pb n="31" facs="tcp:46923:18"/>
+whether we loſe our mony in the Bank, or out of our own Cheſts, in theſe humane Affairs there is no abſolute ſecurity to be expected, eve<g ref="char:EOLhyphen"/>ry Creditor hath here as good as can be in this World.</p>
+               <p>Object. 9. <hi>Theſe Banks will be inconvenient for monied Men, and for many Miſers that would not have their Eſtates known, leaſt they ſhould be Taxt.</hi> &amp;c.</p>
+               <p>
+                  <hi>Anſw.</hi> I never intended theſe Banks to advantage Theeves, Brokers, or Uſurers; but to do good to the honeſt, induſtrious, labouring and trading people of the Nation.</p>
+               <p>
+                  <hi>Anſw.</hi> Theſe Miſers have been, and would be ſtill protected by the Autho<g ref="char:EOLhyphen"/>rity of the Nation; and there is all the reaſon in the World, they ſhould contribute to the maintaining it; they have ſherked long enough alrea<g ref="char:EOLhyphen"/>dy, and laid the heavieſt load upon the weakeſt Horſe; its time every one ſhould bear their own burthen; theſe Banks ought to be the better liked, becauſe they will bring things to ſuch a juſt and even Ballance.</p>
+               <p>Object. <hi>Theſe are troubleſome times, and not proper to attempt ſo great a thing as this is.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The Bank at <hi>Amſterdam</hi> was begun, and conſtituted in a time more troubleſom than ours are; he that obſerves the Wind, doth not Sow; and he that obſerves the Rain doth not Reap.</p>
+               <p>
+                  <hi>Anſw.</hi> 2. If theſe Banks were Conſtituted, its probable they would in a ſhort time produce ſome tollerable Effect, and ſo be in a conditi<g ref="char:EOLhyphen"/>on, it may be in a few Moneths to ſupply the extraordinary occaſions of the Nation, better than any other way, that is yet viſible.</p>
+               <p>Its true, the <hi>Eſſe</hi> of every thing is to be conſulted before the <hi>bene eſſe.</hi> Every Nation ought to provide for its immediate defence againſt an imminent Enemy: but I do not ſee how the promoting theſe Banks, will any way hinder the preſent defence of the Kingdom: if it doth, it is before thoſe, that know how to lay it aſide.</p>
+               <p>Object. <hi>Its better to begin this at firſt, in ſome one or in ſome few places, and by a Law make the Eſtates of ſome particular private Men (that are willing) to be the Fund of a Bank.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> I know ſome have been hammering their Heads about ſuch a little ſilly thing as this is, and are ſo fond of their own dwarf Child, that they think any, that is bigger, to be Monſtrous, and are afraid it ſhould devour theirs.</p>
+               <p>You may be ſure, if particular Men incumber their Eſtates, it is for ſome extraordinary advantage; I ſee no reaſon why, that ſhould be appropriate to a few, which with the ſame, or a little more Labour, may be made more diffuſive, and communicated to all.</p>
+               <p>If the Eſtates of a few Gentlemen, ſuppoſe half a ſcore, of two or three thauſand pounds a year, would make ſo good a Fund, that it would bring in much of the Mony of the Nation into it, what would the Eſtate of the whole Nation do, if it was put under ſuch a circumſtance?</p>
+               <p>Object. <hi>All do alow Banks would be very advantageous to Trading Towns,
+<pb n="32" facs="tcp:46923:19"/>
+where mony is turned, and returned backward and forward, and think the anſwers tollerable to the objections made againſt the inconveniencies of theſe Banks: but they can by no means ſee, how they can be ſet up to any profit in in<g ref="char:EOLhyphen"/>land places, where at preſent there is very little mony</hi> in ſpecie, <hi>and like every day to be leſs; becauſe it is drawn out of thoſe places by the Kings Re<g ref="char:EOLhyphen"/>venue in Exciſe and Chimny-mony to the City as the Center, or heart: this Objection hath been made with much obſtinacy, by ſome Men, that have thought themſelves very wiſe.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> There is none ſo blind, as wiſe men, that will not ſee; I think the Argument turnes upon theſe with undeniable reaſon: its true, mony in a Nation is like blood in the Body, if that is drawn to the heart from the extream Parts, and ſtagnates there, they muſt needs wither; and therefore all care ought to be taken, that this may have its due Circu<g ref="char:EOLhyphen"/>lation; I know nothing, that will do it ſo effectually, as theſe Banks: becauſe there is little mony in ſome parts of the Nation, therefore Banks ought to be ſet up there.</p>
+               <p>The Bills of Credit theſe Banks give out, founded upon the real and perſonal Security of the People (as hath been propoſed,) will be as currant, as Gold in twenty ſhilling pieces, in five pound and ten pound pieces; and there will be no more neceſſity of Silver than there was forty years ſince, when Gold abounded amongſt us. Silver was then of no other uſe than to exchange Gold, as farthings are now to ex<g ref="char:EOLhyphen"/>change Silver.</p>
+               <p>Juſt thus it would be in thoſe places of the Nation, where there is little mony, theſe Bills of Credit upon ſo good a Fund, would be mony, as I have ſhewed, having an intrinſick value in them.</p>
+               <p>If there were no other reaſon for the erecting theſe Offices in theſe indigent places; but to promote Regiſters, it would not be labour loſt; its true, Banks would be more advantageous in ſome places, than other; yet doubtleſs they will be uſeful, and profitable for all. Regiſters will make Security, Security will bring mony, and ſo this evil will be hea<g ref="char:EOLhyphen"/>led.</p>
+               <p>Object. <hi>How ſhould theſe Banks anſwer perſons deſiring mony</hi> in ſpecie, <hi>upon returns, or in caſe of mony depoſited.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> In caſe of mony depoſited, they will have as much mony to pay out, which they have received in, as they have given out Bills of Cre<g ref="char:EOLhyphen"/>dit for, upon that account.</p>
+               <p>As to returns, no more ought to be returned upon theſe weak Banks, than they draw upon others, if more is drawn upon them, mony <hi>in ſpecie,</hi> as hath been provided, muſt be ſent from theſe Banks, where it is ſuper<g ref="char:EOLhyphen"/>fluous. Proviſion may be made here, as it is, when the Banks are firſt ſet up.</p>
+               <p>As to Credit given out upon Security, the Bank muſt be wary, know<g ref="char:EOLhyphen"/>ing, its weakneſs, and muſt let the Creditor know, if he will have mony <hi>in ſpecie,</hi> it muſt be upon ſuch and ſuch termes as the Bank is
+<pb n="33" facs="tcp:46923:19"/>
+able to make good: Theſe Banks may take up mony at the common In<g ref="char:EOLhyphen"/>tereſt, where it is to be had; ſuppoſe from <hi>London,</hi> and may ſupply all men with Caſh, that deſire it, the mony of Widdows and Orphans will be diſpoſed here at Intereſt, as it is in the Chamber of <hi>London,</hi> be<g ref="char:EOLhyphen"/>ſides, none will take out mony <hi>in ſpecie</hi> if they can avoid it, this will bring a running Caſh into theſe parts, which now are, and will every day be, more and more deſtitute of it. Thus you ſee it evident: be<g ref="char:EOLhyphen"/>cauſe mony is ſcarce in ſeveral places, therefore Banks ought to be ſet up there; the Eſtates of ſuch Precincts will at firſt make Paper mo<g ref="char:EOLhyphen"/>ny, that is, Credit as uſeful as great mony <hi>in ſpecie,</hi> the Intereſt of this Credit will encourage and enable the Bankers to draw mony <hi>in ſpecie</hi> thither, (though they pay the common Intereſt for it) to anſwer Bills brought to them, requiring mony <hi>in ſpecie,</hi> ſeeing they ſhall receive In<g ref="char:EOLhyphen"/>tereſt for ten times as much Credit, as they ſhall pay Intereſt for mo<g ref="char:EOLhyphen"/>ny to ſupply Creditors.</p>
+               <p>Object. <hi>Suppoſe theſe Banks will encreaſe the Caſh of the Nation, and bring in much of the Bullion of Europe hither, what good will this do us? it may make us a prey to our Neighbours who will be ready to Invade us for our Wealth. This is the condition of the</hi> Spaniſh Indies. <hi>It is Arms, Ammunition, and valiant Men, that make a Kingdom ſafe.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The World is not ruled now, as it was in former times; Men then were more ſalvage, and made War their imployment, little Prin<g ref="char:EOLhyphen"/>cipalities did continually Invade one another, as the <hi>Indians</hi> now do; warlike proviſion was accounted the greateſt Riches, and Steel eſteem<g ref="char:EOLhyphen"/>ed above Gold; yet, even then mony was accounted the Sinews and cords of War.</p>
+               <p>Now, people are degenerated into a more ſoft and effeminate ways of living, and muſt have other kind of Proviſions at home and abroad, and other kind of preparations are uſed now, than were uſed formerly, which cannot be procured and maintained without mony; <hi>Europe</hi> is now Aſſociated into great Bodies, and thoſe that have the command of mony, command all their Neighbours. <hi>Holland,</hi> not bigger than <hi>York<g ref="char:EOLhyphen"/>ſhire,</hi> nor valiant above their Neighbours, have made a great buſsle in the World by virtue of their mony, and ſtood before Two Mighty Princes. It is not ſo much the innate valour of the <hi>French,</hi> that makes them ſo formidable, as the vaſt ſums of mony ſqueezed out of the people, and prudently husbanded, at home and abroad, that makes them thus Ram<g ref="char:EOLhyphen"/>pant. If we had the command of five or ten Millions of Mony on an inſtant, and would employ it, as they do, we ſhould quickly pluck their Plumbs, and make them vail bonnet to us: theſe Banks, as I have ſhew<g ref="char:EOLhyphen"/>ed will make this proviſion in a ſhort time.</p>
+               <p>As for the <hi>Spaniſh</hi> weakneſs, in the abundance of their Wealth, the reaſon is, they neglect induſtry, and decline Trade: A People that be<g ref="char:EOLhyphen"/>come vaſtly rich, by honeſt labour and induſtry in Trade, will be in a condition to defend themſelves, when ever they ſhall be attackt.</p>
+               <p>
+                  <pb n="34" facs="tcp:46923:20"/>There ſeems to me a kind of neceſſity for us, in order to our pre<g ref="char:EOLhyphen"/>ſervation, of maintaining a Hundred Sail of Men of War in the Sum<g ref="char:EOLhyphen"/>mer, and half ſo many in the Winter, though we have no War, that we may maintain our Soverainty at the Sea; and be in a readineſs with Seamen and Shipping, in caſe of a breach with our Neighbours, though we do not Invade them on the Land, yet we may defend our ſelves, and offend them ſo, as to deſtroy all their Trade. A part of the profit of theſe Banks would do much of this.</p>
+               <p>Object. <hi>It will be a great while before theſe Banks can take ſuch an Effect, as to produce any tollerable profit.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> All great things, have ſome convenient time to come to their Maturity. The Oak requires ſome years, the Hemlock ſhoots up in a few weeks. <hi>Rome</hi> was not built in a day. The great good theſe Banks will at laſt produce, will pay for all our pains and patience.</p>
+               <p>
+                  <hi>Anſw.</hi> Upon a general ſatisfaction the Fund is good, which may be eaſily given, we cannot tell how ſoon a tollerable Effect may be pro<g ref="char:EOLhyphen"/>duced, it will coſt no great matter to trie, the Propoſals ſeem very natural, and the Nation ſeems diſpoſed for ſuch a thing: therefore we may expect it will ripen ſooner, than if the thing were forc'd. Perſons, when they ſow Wheat, wait a year, before they have a Harveſt, and are not ſure how it will prove, till they have it in the Barn. Such a Term will probably determin this thing: I hope no bodies Patience will be tired in that time.</p>
+               <p>As to a Regiſter, the grand cheats daily committed, proclaims it in ſome kind neceſſary, I ſhall need to ſpeak little on the behalf of it, only it will be very convenient, that theſe Banks may have Security to ex<g ref="char:EOLhyphen"/>tend their Credit upon.</p>
+               <p>I ſhall endeavour to anſwer ſome material Objections that may be brought againſt it.</p>
+               <p>Object. <hi>Why ſhould Regiſters be more neceſſary now, than they have been heretofore?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The way of conveiancing heretofore, was by a Deed inroll'd which the Purchaſer might read, if he pleaſed, or by Livery or Seiſin, in the face of the Country, which many might take notice of: but now Eſtates are ſetled in Truſt privately, or by Leaſe and Releaſe, which the wiſeſt of Men cannot diſcover, if there be a deſign and intention to deceive; hence Titles are uncertain; and Land formerly worth Twenty, or two and twenty years Purchaſe, when mony was at Eight in the hundred, is now not worth above ſixteen or eighteen, though the common Inter<g ref="char:EOLhyphen"/>eſt be but ſix in the hundred, and doubtleſs will fall lower ſtill, unleſs ſome ſpeedy courſe be taken to prevent this miſchief.</p>
+               <p>Object. <hi>If Regiſters ſhould be ſet up, and Titles cleared, many Law ſuits would be prevented, and Lawyers that have now imployment little enough, would have much leſs.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Its very true, as Regiſters would prevent frauds, ſo they would
+<pb n="35" facs="tcp:46923:20"/>
+anticipate many needleſs Law Suits: but what ever imployment in the Law the Gentlemen of the long Robes ſhould loſe by a Regiſter, they would get for many years to come, by managing theſe Regiſters; and further, there would be a conſtant Imployment for many hundreds of Gentlemen belonging to the Law, in the managing theſe Offices; ſhor<g ref="char:EOLhyphen"/>ten the number of Atourneys and Soliciters, that are to the Bariſters, as the Apothecaries are to the Doctors, and they would have a much better imployment, than they now have.</p>
+               <p>Object. <hi>If Registers ſhould be ſet up, thoſe that are in Debt will be diſ<g ref="char:EOLhyphen"/>credited, and what ſhould become of thoſe that have Mortgaged their Lands twice or thrice over? they will he aſhamed and destroyed, when their dou<g ref="char:EOLhyphen"/>ble dealing is found out.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> I propoſe a voluntary Regiſter for the things paſt, and thoſe that judge it will not ſute their Intereſt may forbear Regiſtring their Eſtates, till ſome occaſions be for a new ſettlement.</p>
+               <p>
+                  <hi>Anſw.</hi> I do not know any thing, that will be a greater relief to perſons in debt, and to ſuch as have Mortgaged their Lands twice over, than theſe Banks and voluntary Regiſters.</p>
+               <p>Suppoſe a Gentleman hath a thouſand pound <hi>per Annum,</hi> and hath bor<g ref="char:EOLhyphen"/>rowed upon his Eſtate eight thouſand pounds of one man at <hi>London,</hi> and eight thouſand pounds of another at <hi>York,</hi> intending by good Husban<g ref="char:EOLhyphen"/>dry, or the Marriage of a Son, to pay off one of theſe Debts, before they be known, but is diſappointed: at laſt the Creditors come to know this double incumbrance, and preſently both fall fowl upon their Deb<g ref="char:EOLhyphen"/>tor, till the Eſtate is torn in pieces, the Family deſtroyed, and the poor Gentleman dies in Priſon, this is the condition, as ſuch perſons are liable to without a Regiſter.</p>
+               <p>Turn the Tables, ſuppoſe theſe Banks, and a Regiſter, the Mortgager declares his condition, Regiſters his Land, at the end of ſix Months it appears, there are no more incumbrances upon it, he ſells his Thou<g ref="char:EOLhyphen"/>ſand a year, for Twenty five thouſand pounds, pays the Sixteen Thou<g ref="char:EOLhyphen"/>ſand pound Debt, hath Nine thouſand pounds left for himſelf and Fa<g ref="char:EOLhyphen"/>mily: for Land in <hi>Scotland</hi> a poor Country where mony is ſcarce, is worth Three and twenty years Purchaſe, by reaſon there is a Regiſter, and doubtleſs would be worth Twenty five years Purchaſe here, if a Re<g ref="char:EOLhyphen"/>giſter was eſtabliſh'd: but in caſe theſe Banks were eſtabliſhed, and mony was, (as doubtleſs it will be,) at two or three <hi>per Cent.</hi> Intereſt, Land muſt needs riſe to Forty years purchaſe in <hi>Holland,</hi> ſome ſay it is worth Fifty, and then the condition of the Morgager will be ſo much the better: this is the worſt caſe, that can be propoſed, and you ſee plainly, no inconvenience, but much profit doth accrue, even to per<g ref="char:EOLhyphen"/>ſons in this condition.</p>
+               <p>Obect. <hi>Regiſters have been often many years ſince, propoſed in Parlia<g ref="char:EOLhyphen"/>ment, and as often rejected.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The Regiſters propoſed have always been general and com<g ref="char:EOLhyphen"/>pulſory
+<pb n="36" facs="tcp:46923:21"/>
+Regiſter, theſe may prejudice bad Titles, and put perſons to charge that have good Titles, and have no need, nor deſire to Regiſter. That which is now propoſed, according to Mr. <hi>Yarrington</hi>'s Notion, is a voluntary Regiſter.</p>
+               <p>
+                  <hi>Anſw.</hi> The beſt things that were ever offered to a Parliament have been often blown upon, and accepted at laſt: ſo may this, eſpecially, now we ſee, we have more need of it, than ever we had. I expect it will be the fate of theſe Propoſeals about a Bank, though all Mem<g ref="char:EOLhyphen"/>bers, I have ſpoken privately with, ſubſcribe to the reaſonableneſs of the thing, yet when theſe come together, I expect, either out of by-ends, or ſome bad humour, it will be rejected at preſent, it may be ſome after ages may be more wiſe; and when they ſee the neceſſity, may think better of it, as they begin to do now of a Regiſter.</p>
+               <p>Object. <hi>Here are ſo many things propoſed, though one or ſome of them might be accepted, yet one will hinder another, and nothing is like to be done. Here are Offices to be erected to return Mony,</hi> &amp;c. <hi>to be Caſhiers to thoſe, that pleaſe, to take their Bills of Credit; theſe Bills muſt be made transferable: Work-Houſes and Hoſpitals are propoſed to be erected, the Laws for the Poor to be altered, Tin Money to be made currant, and laſtly, a Regiſter to be conſtitu<g ref="char:EOLhyphen"/>ted, with ſeveral other circumſtantial things: Theſe are not likely to be fixed at once, nor comprehended in one Act.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The great thing I deſign, is a Bank, which in ſhort is compre<g ref="char:EOLhyphen"/>hended in theſe words:</p>
+               <p n="1">1. Divide the Nation into Precincts, in each of which an Office may be erected on purpoſe to return Mony, and to be as Caſhiers to thoſe that pleaſe.</p>
+               <p n="2">2. Let every Precinct be bound to make good the Acts of their Of<g ref="char:EOLhyphen"/>fice, as they are now bound to repair men robbed.</p>
+               <p n="3">3. Every Precinct ſhall chooſe their ſtated Officers, and a certain number of ſubſtantial perſons to ſuperviſe them once in a Month, and to adviſe, when any thing extraordinary is to be done.</p>
+               <p n="4">4. A Superiour Office is to be erected at <hi>London,</hi> or in ſeveral places of the Nation, to be a Check upon all theſe; the Officers to theſe Su<g ref="char:EOLhyphen"/>periour Offices, ſhall be choſen by the Officers of the ſeveral Pre<g ref="char:EOLhyphen"/>cincts.</p>
+               <p>Theſe are the ſubſtantial things I propoſe, which are eſſential to the conſtituting theſe Banks; as to all other things that are circumſtantial, the Law-makers may do what they pleaſe: whether the Bills be made transferable, or a Regiſter be appointed, <hi>&amp;c.</hi> is not neceſſary to the Being, but may conduce much to the Well Being of theſe Banks. I think it is no difficult thing to make a Law for theſe few things, that will not be grievous to the Subjects, conſidering how beneficial Banks will be to the whole Nation.</p>
+               <p>
+                  <hi>Anſw.</hi> It is not to be expected a Law ſhould be made at firſt for the doing a New thing, complicated with many circumſtances, that ſhould
+<pb n="37" facs="tcp:46923:21"/>
+not need future amendments: The <hi>Dutch</hi> Fiſhery hath admitted two and twenty alterations (as I have been informed) before it arrived to the State it now is in.</p>
+               <p>
+                  <hi>Anſw.</hi> Theſe various circumſtantial things, do depend one upon an<g ref="char:EOLhyphen"/>other, and will be all ſubſervient to the main deſign; if the Parliament do not think ſo, they may pick and chuſe.</p>
+               <p>Object. <hi>Here are many new Offices to be erected and Officers to be main<g ref="char:EOLhyphen"/>tained, that muſt coſt the Nation in general</hi> 300000 <hi>pounds per Annum or more, which ſeems to be Money loſt, though the Banks pay ihem immediately, yet me<g ref="char:EOLhyphen"/>diately the Mony comes out of the great Purſe of the Nation, to maintain a new Generation of idle men.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> I conjecture the Charge of the Offices and Officers may be 300000 pounds, perhaps more, and yet no hurt to the Nation. Sup<g ref="char:EOLhyphen"/>poſe five hundred Gown Men ſhould be employed about theſe Offices, and have but two hundred pound a year Salary to each, it will be a hun<g ref="char:EOLhyphen"/>dred thouſand pounds, this Money will be ſaved: now theſe are main<g ref="char:EOLhyphen"/>tained in a worſe way, to the greater damage of the Nation. Many decayed Tradeſmen, that muſt either beg or ſtarve, would be comfort<g ref="char:EOLhyphen"/>ably maintained under theſe, that cannot otherwiſe earn any thing to themſelves, the or Nation.</p>
+               <p>Much Money will be ſaved that is now ſpent, in making Bonds, Bills, and other Securities, that will now in a great meaſure be uſeleſs: The vaſt reward for procuration and continuation money, will now be out of doors; if theſe expences be added together, I ſuppoſe they may bal<g ref="char:EOLhyphen"/>lance, if not out-weigh the Exits that will be occaſioned by theſe Offices and Officers; ſo that if the Nation got nothing another way, it would loſe nothing by this: that which the Poor will earn more then they now do, will many times over recompence the charge of theſe Of<g ref="char:EOLhyphen"/>fices.</p>
+               <p>But it will appear this Objection is weak, if we conſider the great Advantages that will accrue to the Nation by multiplying the Effects of the Nation, the Mony of the Nation, and the Induſtry of the Nation (I hope) thoſe will anſwer the Charges of the Offices, and all the pains the Parliament ſhall be put to in erecting them.</p>
+               <p>
+                  <hi>Anſw.</hi> If all this doth not ſatisfie, let the Stated Officers in the Coun<g ref="char:EOLhyphen"/>try collect the Kings Exciſe and Chimny-Money, which they may do at a far leſſer charge than now it is done; whilſt they have leaſure from their Offices.</p>
+               <p>Object. <hi>If Intereſt be but two or three per Cent. how ſhall WidoWs and Or<g ref="char:EOLhyphen"/>phans do, and other perſons that have nothing but a ſtock of Money to live upon.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> I anſwer, As the Jews did, who by Gods Law might not take Intereſt of their Brethren; and doubtleſs they had not ſuch great choiſe of Strangers to put out their Money to at any high rate: None doubts but God knew this Political Law would not hurt his own People, nei<g ref="char:EOLhyphen"/>ther
+<pb n="38" facs="tcp:46923:22"/>
+will it damage us. I conjecture the Conſequence of it with the Jews was, they imployed that Stock they had in Trade and in managing their Land, that their whole Country was a Garden, elſe ſo little a compaſs could not have ſupported ſo numerous a People. This would be the Effect amongſt us, as I have ſhewed, if Intereſt was low, or if men could not put their Money out to uſury at all.</p>
+               <p>As for Widows and Orphans, that have nothing but a little Money left them<g ref="char:punc">▪</g> the Bank may take it, and give more than the common Inte<g ref="char:EOLhyphen"/>reſt in point of Charity, though the Bank looſes by it, the profit that will come another way muſt bear this loſs. This will be better than as things ſtand now, when the Executors keep Orphans Money dead all the time of Minority, and very often it is totally loſt. Now every wiſe man would make theſe Banks to be to Orphans in the Country, as the Chamber of <hi>London</hi> is to Orphans in the City.</p>
+               <p>I deſire, in what I have diſcourſed, I may be candidly underſtood, that I do not impoſe any thing Magiſterially, but humbly ſubmit theſe things to the prudent and grave conſideration of the Parliament. I ſhall not be much concerned what ever alterations or mutations are made; or though the whole be laid aſide, only I intreat the Parliament to conſider, if this Project be practicable, and will be profitable, and they ſhall lay it aſide, an other Nation may take it up, though not with ſo great ad<g ref="char:EOLhyphen"/>vantages, as we may: or let the Parliament conſider what condition the Trade of <hi>England</hi> would quickly be in; if <hi>Ireland</hi> ſhould imbrace, what I have diſcourſed. Or if <hi>Scotland</hi> ſhould ſet up theſe Banks, they are under a Regiſter already, and ſo are half-Seas over. If they reject the commodity, they will not, I hope, take it ill, if it be carried to ano<g ref="char:EOLhyphen"/>ther Market.</p>
+               <p>I deſire no perſon will be prejudiced againſt theſe Propoſals: becauſe they are out of the road of the Author; conſider, a Frier found out Gunpowder, and a Soldier found out Printing; a ſtander by ſometimes ſees more than a Gamſter: if he had known any other perſon that would have propoſed theſe things, tending ſo much, as he thinks, to the good of the Nation, he would have ſpared his pains.</p>
+               <p>Thus I have offered to you a real practicable and profitable thing; not an idle, aiery or meer ſpeculative Notion; and if you reflect up<g ref="char:EOLhyphen"/>on the diſcourſe, it will appear there in leſs hazard in truſting theſe Banks, than any Banks in the World; becauſe they have a better Fund, the Creditor may eaſilier recover his mony here, if the Bankers prove diſhoneſt, or inſolent, than any where elſe.</p>
+               <p>I ſhall conclude, with compareing this Bank with Forrein Banks; eſpecially, with thoſe two famous ones at <hi>Amſterdam</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>enice.</hi>
+               </p>
+               <p>
+                  <hi>Amſterdam</hi> had its firſt riſe from mony left in Bankers hands without Intereſt, who were as the Caſheirs to ſeveral Merchants.</p>
+               <p>The States of <hi>Holland</hi> obſerved mony was tranſmitted from one to another by writing off the Credit from the Debtor to the Creditor,
+<pb n="39" facs="tcp:46923:22"/>
+and ſeldom paied <hi>in ſpecie,</hi> (as it is at this day practiſed in <hi>London,</hi> by ſeveral Wealthy Citizens) they undertook to be Security for all mony left in ſuch Officers hands, as they appointed, to all perſons that ſhould depoſit their mony with them, which was better than any private Se<g ref="char:EOLhyphen"/>curity; hence plenty of mony was quickly left with them without In<g ref="char:EOLhyphen"/>tereſt, to the value of Three Millions Starling, which was by experience found to be ſufficient to drive their whole Trade: becauſe, being in Bank it is expeditiouſly returned: this Three Millions in Bank, will make as great a ſhew, and drive as great a Trade, with ten times leſs trouble, as Five Millions in private Cheſts: a Thouſand pounds may be tranſmitted twenty, nay forty times in one Morning (if there be oc<g ref="char:EOLhyphen"/>caſion) which is equivalent to Forty thouſand pounds, with as much eaſe, as Two or three thouſand pounds can be told and retold: they put a ſtop to their Bank, and forbad any more mony to be made Bank-mony; becauſe no more mony ſhould lie dead, than was needful for their occa<g ref="char:EOLhyphen"/>ſions, the reſidue of their mony, remained as a running Caſh in pri<g ref="char:EOLhyphen"/>vate hands.</p>
+               <p>The Bank pretends, it keeps Two Millions always <hi>in ſpecie,</hi> and uſes one Million as they pleaſe for their beſt advantage, though many at this time think otherwiſe.</p>
+               <p>The Creditor here, hath only the honeſty and curteſie of the Burgo<g ref="char:EOLhyphen"/>maſters, that he ſhall be juſtly dealt withal, I cannot underſtand; the Creditor hath any way to force the Bank to pay him his mony, if the Effects ſhould be drawn out, and expended another way. But every Creditor is in the ſame condition, as the Creditors of the <hi>Affrican</hi> Com<g ref="char:EOLhyphen"/>pany were; when their firſt Stock was loſt, and as the Creditors were in, when the <hi>Hamburrow</hi> Company, and the <hi>Groſer<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Company failed, they muſt all loſe their mony.</p>
+               <p>If the <hi>French</hi> King, when he was ſo neer <hi>Amſterdam,</hi> had taken it, and rifled the Bank, what ſhould have become of the Creditors?</p>
+               <p>If this chargeable War ſhould continue, doubtleſs <hi>Amſterdam</hi> would and ought, draw all the mony yet remaining <hi>in ſpecie</hi> in the Banks; and extend their Credit to the uttermoſt, rather than loſe their City and Country; hoping by Trade, and good Husbandry to recruit themſelves, and to be able to ſatisfie their Creditors; but if they ſhould be fruſtrate in their expectation, as the <hi>Affrican</hi> Company was, where ſhall their Creditors be ſatisfied?</p>
+               <p>Now compare our Banks with this, if the Nation ſhould be Invaded as it was by the <hi>Normans;</hi> Firſt, the Conqueror can ſeaſe no Publick-mony, that is diſpenſed, and doubtleſs the Invader would ſuffer the Banks to call in their Mony, and pay their Creditors; if he did not do it, the Creditor might ſhew any perſon in the Precinct, as before, and recover his Debt, unleſs all mens perſons were inſlaved, and their Eſtates Con<g ref="char:EOLhyphen"/>fiſcated, which is more, than <hi>William</hi> the Conqueror did; and if it ſhould be ſo, it matters not where we loſe our mony, when there is no poſſi<g ref="char:EOLhyphen"/>bility of keeping it.</p>
+               <p>
+                  <pb n="40" facs="tcp:46923:23"/>Again, we will admit a War, and ſo great a neceſſity, that our Banks ſhall be drained for a preſent ſupply to the value of Ten or twenty Millions, if our Country be ſaved by it, the Land will remain, and moſt of the mony will be in the Nation, and all Creditors may have ſatis<g ref="char:EOLhyphen"/>faction at preſent by a Bill of Credit, as uſeful as mony, and they may be gradually ſatisfied, with mony <hi>in ſpecie,</hi> as it can be raiſed, if they ſhall deſire it; as will appear afterwards, when we come to ſurvey the Banks of <hi>Venice.</hi>
+               </p>
+               <p>The Bank at <hi>Hamborow</hi> is much of the ſame nature with that at <hi>Am<g ref="char:EOLhyphen"/>ſterdam,</hi> only they keep their whole Fund <hi>in ſpecie;</hi> as hath been proved, and ſo it is ſo much worſe, becauſe all this mony lies dead, and is liable to a ſeaſure if the Town ſhould be taken: But in our Banks little mo<g ref="char:EOLhyphen"/>ny lies dead, for it is diſperſed amongſt the Neighbourhood, and be<g ref="char:EOLhyphen"/>comes a running Caſh; the Bills of Credit are as ſo much mony; thus the whole Stock of the Nation is doubled; the goods and lands of the Nation, as far as the Proprietors pleaſe, are turned into mony, nay, the very perſonal Security, or reputation of Mens Ability is turned into mony; how many Millions this will amount to, I leave the great Stateſ<g ref="char:EOLhyphen"/>men to compute.</p>
+               <p>It would be found a difficult thing, it may be, for <hi>London, Southwark,</hi> and <hi>Weſtminſter,</hi> in an inſtant to raiſe Two Millians of ready Mony, and carry it to the Exchequer; though all Men ſhould do their ut<g ref="char:EOLhyphen"/>moſt, to be ſure, it would make a very great hole in every Mans Caſh: One hundred or two hundred thouſand pounds, raiſed upon an emer<g ref="char:EOLhyphen"/>gency, drains the change ſhrewdly.</p>
+               <p>Conſider then, how mony would abound, if Ten Millions, or twenty Millions of ready mony, or Credit currant equivalent to mony, ſhould in a little time be added to the preſent Stock of the Nation. Theſe Banks probably will do all this, and much more.</p>
+               <p>As to the Bank at <hi>Venice,</hi> it is not of any very long ſtanding, it had its firſt riſe from the diſhoneſty of the Bankers. The Bankers at <hi>Ve<g ref="char:EOLhyphen"/>nice</hi> did juſt as our Bankers have done here, they got Mens mony into their hands at Intereſt, and uſed it (as was neceſſary) to their beſt ad<g ref="char:EOLhyphen"/>vantage, that they might make a better profit of their mony, than the Intereſt they paied, they lent it out to inſolvent perſons, or laid out in deſperate caſes, as our Bankers did. Hence, when they were diſap<g ref="char:EOLhyphen"/>pointed, they did unavoidably break; the Creditor loſt his mony, the Commonwealth their Trade: for the Banker got what he could, and fled out of their Territories, as ours do into the <hi>Kings Bench.</hi>
+               </p>
+               <p>The <hi>States,</hi> finding ſuch an intollerable inconvenience, as we now do, if Men lent out their mony, many times they loſe it, if it lie dead by them; Trade dwindles away by this fragnation: juſt in ſuch a time as this is, the States ſet up their Bank, and their Officers became Caſheirs, (as at <hi>Amſterdam</hi>) for about two Millions of Duccates, a Bank, ſufficient for their Trade, which was kept <hi>in ſpecie,</hi> to be taken in, or
+<pb n="41" facs="tcp:46923:23"/>
+paied out as the Merchants deſired it, until the neceſſity of their Affairs in the late Turkiſh Wars forced them to expend all the mony <hi>in ſpecie,</hi> which was lodged in the Bank, now there is no mony at all, neither is any mony <hi>in ſpecie</hi> ever paid out; but their Bank is a perfect Credit Bank, and the Fund is a meer imaginary thing; yet becauſe the Fund, being (as I ſaid) Four Millions of Duccates, which <hi>Venice</hi> is able to raiſe, and the States have obliged to pay, (though they are never like to pay a farthing of it to the end of World;) all Men accept this Credit as mony, nay, ſince it hath been in this condition, the very Credit hath been worth Twenty <hi>per Cent.</hi> more than Caſh <hi>in ſpecie:</hi> all Merchants trading thither, can tell you Credit in the Bank is much better than Caſh in the Cheſt; the reaſon is, what I have firſt mentioned: Cre<g ref="char:EOLhyphen"/>dit in Bank is more ſafe, more portable, and more transferable than mony <hi>in ſpecie,</hi> and ſo of greater value, as Gold is better than Sil<g ref="char:EOLhyphen"/>ver.</p>
+               <p>Not many years ſince Credit in the Bank at <hi>Venice,</hi> (as our Merchants can remember) was better than Caſh <hi>in ſpecie</hi> by more than Twenty in the hundred, which the <hi>States</hi> found inconvenient for their Trade: the <hi>States</hi> could not by any Law, ſuppreſs this exceſſive Exchange, though they made it capital to take about Twenty <hi>per Cent.</hi> till at laſt they were adviſed by a ſagacious Merchant, to bring mony <hi>in ſpecie</hi> into the Bank, to anſwer their Credit; this preſently brought down the Exchange: hence, ſome Merchant here thought, the Credit of the Bank was impared, becauſe the Exchange fell, when as it was quite contrary, the Bank paid mony <hi>in ſpecie,</hi> inſtead of writing off Credit from one to another; this made the Exchange leſs.</p>
+               <p>This I had from a very good hand, then upon the place, I was eaſily induced to believe it; becauſe there is ſuch demonſtrable reaſon for it, though I believe, ſome will think it a Romance; for their ſatisfaction I ſhall anſwer one Objection.</p>
+               <p>Object. <hi>What uſe can the Creditor make of his Credit in this Bank, that it ſhould be of ſuch a value? You acknowledg no mony can be had there.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Suppoſe betwen Ten and twelve of the Clock this Bank is open to tranſmit Credit from one to another, as ſoon as ever Credit is Trnſmitted, ſeveral perſons are attending, who will inſtantly ap<g ref="char:EOLhyphen"/>ply themſelves to the new Creditor, to know of him, whether he will ſell his Credit in Bank, for mony <hi>in ſpecie,</hi> which they are ready to give to him at the price currant; becauſe they can make ſomething more of the Credit, by ſelling it to others: then they pay, as our Bro<g ref="char:EOLhyphen"/>kers do, of what they buy.</p>
+               <p>When mony was paied <hi>in ſpecie,</hi> it was no better then ſuch mony <hi>in ſpecie,</hi> and ſo could not be changed for Profit, no more than one penny loafe will exchange for an other to any advantage.</p>
+               <p>The Caſe is ſomething like this at the Bank in <hi>Holland,</hi> where the
+<pb n="42" facs="tcp:46923:24"/>
+Exchange is two or three, ſometime four <hi>per Cent.</hi> Exchange not, be<g ref="char:EOLhyphen"/>cauſe the Dollars in Bank are ſo much better, than Dollars currant though there is a differance: but becauſe Credit in Bank is more ſafe, more portable, and more transferable than Caſh <hi>in ſpecie</hi> is.</p>
+               <p>Duccats in Bank, muſt needs be ſomething better, than Caſh in the Cheſt, becauſe they lie there untold, and are never ſtirred; the waſt of our Silver, by carrying and recarrying, and frequent telling it, is no ſmall matter in ſeven years, and we ſhall find it ſo, if ever our mony becomes a Commodity, as it may be without inconveniencie; if theſe Banks be once ſet up in the Nation: its true, a thin Groat paſſes for Four pence in <hi>England,</hi> but would not be worth Two pence in <hi>France,</hi> where the intrinſick value, and not the Coin is conſidered; it may be Bank-mony for this cauſe is better than worn mony in <hi>Holland,</hi> where it may be exported at Pleaſure, and therefore is valued accor<g ref="char:EOLhyphen"/>ding to its weight and fineneſs, not its denomination.</p>
+               <p>Our Banks in <hi>England</hi> would be better than this at <hi>Venice,</hi> which is under moſt of the ſame inconveniences as that at <hi>Amſterdam,</hi> as will appear by reflecting upon what hath been ſaid before.</p>
+               <p>Doubtleſs, a Bill of Credit upon our Banks, or Credit transferred, will be more valuable here in <hi>England,</hi> and all the World over, when once the State of them is rightly underſtood, as well as it is at <hi>Ve<g ref="char:EOLhyphen"/>nice</hi> and <hi>Amſterdam.</hi>
+               </p>
+               <p>The Parliament then ought to leave no Stone unturn'd in their in<g ref="char:EOLhyphen"/>deavouring to ſet up Banks here, all the inconveniences that may in<g ref="char:EOLhyphen"/>ſue upon Laws made for this purpoſe; and all the pains that any ſhall take in Executing theſe Laws, will be abundantly recompenced in the vaſt and apparent profit that will ariſe from theſe Banks.</p>
+               <p>
+                  <hi>Christopherus Columbus</hi> offered to diſcover the <hi>Indies</hi> for us, but was ſlighted. The <hi>Spaniard</hi> accept the tender, and are poſſeſſed of thoſe Rich Mines, by which, he might have made himſelf very great, if he had imployed thoſe Riches to incourage Induſtry as he has uſed them, to nouriſh Luxury.</p>
+               <p>This is the firſt Diſcovery of making ſuch Banks, upon ſo ſure a Fund, with ſuch eaſe, and ſo little hazard, to a general Advantage; if the Propoſals are neglected, and others ſhall improve them to their profit, we may repent it when it is too late.</p>
+               <p>I could ſhew how the Nation may raiſe Two Millions of Mony by a Monthly Tax in a Year, for the Publick Service: and how every peaſon ſhall be reimburſed again in a few Months, (without any charge to any body by this reimburſement) whatſoever they have disburſed, towards this Tax; ſo that there ſhall be an addition of Two Milli<g ref="char:EOLhyphen"/>ons to the running Caſh of the Nation, which ſhall be of as great uſe in Trade as Six Millions, (if we have ſo much) now is: But I will firſt ſee how, what I have diſcourſed is accepted of.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:46923:24" rendition="simple:additions"/>
+            <head>ERRATA.</head>
+            <p>PAge, <hi>p.</hi> 1. <hi>l.</hi> 5. <hi>dele</hi> us. <hi>p.</hi> 14. <hi>l.</hi> 29. for day, <hi>read</hi> pay. <hi>p.</hi> 24. much of that diſcourſe about making Paper, and that whole Paragraph of Burying in Linnen, were <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in by the Bookſeller, without my knowledge, as may appear by the incoherence of it: <hi>p.</hi> 22. <hi>l.</hi> 39. for your <hi>r.</hi> poor, <hi>p.</hi> 31. <hi>l.</hi> 3. for as good as can be, <hi>r.</hi> as good Security as can be. Literal faults that do not alter the ſenſe I omit.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
